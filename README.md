@@ -1,4 +1,5 @@
-﻿# Reasonability-of-LLMs-An-Experiment-with-PaLM-text-bison-001
+﻿# Reasonability-of-LLMs-An-Experiment-with-PaLM-text-bison-001 and Llama 2
+ 
 
  ## A Short Description of Our Work:
  Hi! Welcome and thank you for your interest in exploring our work on understanding LLMs( PaLM text bison 001,Llama 2) reasoning ability through various types of CoT prompts( and detailed comparison of standard prompt vs CoT prompt).
