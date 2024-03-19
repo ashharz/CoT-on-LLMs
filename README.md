@@ -12,4 +12,6 @@
  <img src="SVAMP_4COMP.png" style="width:1376px;height:774px"/>
 
  ## Obtained Result in Llama 2:
+ <img src="llama_AQuA_cot_std.png" style="width:1376px;height:774px"/>
+ <img src="llama_gsm8k_cot_std.png" style="width:1376px;height:774px"/>
  
