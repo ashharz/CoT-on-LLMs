@@ -2,7 +2,7 @@
  
 
  ## A Short Description of Our Work:
- Hi! Welcome and thank you for your interest in exploring our $\href{https://github.com/jvdutt/NLP_project/blob/main/Understanding%20Resaoning%20Ability%20of%20PaLM%2CLLAMA%20Through%20CoT%20Prompts.pdf}{work}$ on understanding LLMs( PaLM text bison 001,Llama 2) reasoning ability through various types of CoT prompts( and detailed comparison of standard prompt vs CoT prompt).
+ Hi! Welcome and thank you for your interest in exploring our work( detailed report is available at: https://github.com/jvdutt/NLP_project/blob/main/Understanding%20Resaoning%20Ability%20of%20PaLM%2CLLAMA%20Through%20CoT%20Prompts.pdf) on understanding LLMs( PaLM text bison 001,Llama 2) reasoning ability through various types of CoT prompts( and detailed comparison of standard prompt vs CoT prompt).
 
  ## Obtained Results in PaLM:
  <img src="AQUA.png" style="width:1376px;height:774px"/>
