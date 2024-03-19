@@ -1,0 +1,1400 @@
+QUESTION: Take the last letters of each words in "Byron Lawrence Cole Bryce" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is neee
+**********************************
+MODEL's_ANSWER: rleyec
+##############################################################################################
+QUESTION: Take the last letters of each words in "Charlie Alan Julio Marc" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is enoc
+**********************************
+MODEL's_ANSWER: mlajc
+##############################################################################################
+QUESTION: Take the last letters of each words in "Tyrone Ivan Alexis Don" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ensn
+**********************************
+MODEL's_ANSWER: onyd
+##############################################################################################
+QUESTION: Take the last letters of each words in "Vincent Kelvin Cory Gloria" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is tnya
+**********************************
+MODEL's_ANSWER: rycg
+##############################################################################################
+QUESTION: Take the last letters of each words in "Elias Eva Felix Matthew" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is saxw
+**********************************
+MODEL's_ANSWER: mths
+##############################################################################################
+QUESTION: Take the last letters of each words in "Joy Todd Maya Kim" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ydam
+**********************************
+MODEL's_ANSWER: kmdy
+##############################################################################################
+QUESTION: Take the last letters of each words in "José Roman Ken Janet" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is énnt
+**********************************
+MODEL's_ANSWER: enj
+##############################################################################################
+QUESTION: Take the last letters of each words in "Howard Bruce Noel Juliana" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is dela
+**********************************
+MODEL's_ANSWER: auln
+##############################################################################################
+QUESTION: Take the last letters of each words in "Wesley Mandy Edgar Michele" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yyre
+**********************************
+MODEL's_ANSWER: eycem
+##############################################################################################
+QUESTION: Take the last letters of each words in "Peggy Stacey Christine Juan" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yyen
+**********************************
+MODEL's_ANSWER: eyjs
+##############################################################################################
+QUESTION: Take the last letters of each words in "Joan Dwayne Ernest Whitney" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nety
+**********************************
+MODEL's_ANSWER: ythw
+##############################################################################################
+QUESTION: Take the last letters of each words in "Irma Lorenzo Sofia Priscilla" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aoaa
+**********************************
+MODEL's_ANSWER: aoso
+##############################################################################################
+QUESTION: Take the last letters of each words in "Adriana Trevor Nikki Cassie" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is arie
+**********************************
+MODEL's_ANSWER: iacn
+##############################################################################################
+QUESTION: Take the last letters of each words in "Angela Johanna Miranda Rogelio" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aaao
+**********************************
+MODEL's_ANSWER: aelgr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Abel Jess Marlene Ben" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is lsen
+**********************************
+MODEL's_ANSWER: nmlbe
+##############################################################################################
+QUESTION: Take the last letters of each words in "El Alicia Paola Lola" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is laaa
+**********************************
+MODEL's_ANSWER: aiolp
+##############################################################################################
+QUESTION: Take the last letters of each words in "Harry Kara Judith Andrea" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yaha
+**********************************
+MODEL's_ANSWER: rya
+##############################################################################################
+QUESTION: Take the last letters of each words in "Santiago Adrian Jeanne Travis" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ones
+**********************************
+MODEL's_ANSWER: sjtvr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Katherine Ernesto Anita Melissa" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eoaa
+**********************************
+MODEL's_ANSWER: inae
+##############################################################################################
+QUESTION: Take the last letters of each words in "Ruben Seth Kay Tyler" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nhyr
+**********************************
+MODEL's_ANSWER: ytlkem
+##############################################################################################
+QUESTION: Take the last letters of each words in "Pedro Marina Carolina Monica" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is oaaa
+**********************************
+MODEL's_ANSWER: OMC
+##############################################################################################
+QUESTION: Take the last letters of each words in "Kayla Alejandro Veronica Jill" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aoal
+**********************************
+MODEL's_ANSWER: ajljr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Heidi Elizabeth Russell Kat" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ihlt
+**********************************
+MODEL's_ANSWER: srk
+##############################################################################################
+QUESTION: Take the last letters of each words in "Karina Eddie Lidia Dominique" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aeae
+**********************************
+MODEL's_ANSWER: eia
+##############################################################################################
+QUESTION: Take the last letters of each words in "Marcela Gregory Andre Willie" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ayee
+**********************************
+MODEL's_ANSWER: lagew
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jaime Gary Kris Cassandra" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eysa
+**********************************
+MODEL's_ANSWER: sgrs
+##############################################################################################
+QUESTION: Take the last letters of each words in "Ignacio Marisol Chad Brandi" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is oldi
+**********************************
+MODEL's_ANSWER: icabr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Cindy Briana Rob Iris" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yabs
+**********************************
+MODEL's_ANSWER: brs
+##############################################################################################
+QUESTION: Take the last letters of each words in "Gabe Eduardo Gabby Kurt" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eoyt
+**********************************
+MODEL's_ANSWER: ukgt
+##############################################################################################
+QUESTION: Take the last letters of each words in "Sebastian Neil Beto Paula" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nloa
+**********************************
+MODEL's_ANSWER: auln
+##############################################################################################
+QUESTION: Take the last letters of each words in "Tiffany Lee Amanda Yesenia" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yeaa
+**********************************
+MODEL's_ANSWER: ysnie
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jim Brian Jose Grace" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is mnee
+**********************************
+MODEL's_ANSWER: Graces
+##############################################################################################
+QUESTION: Take the last letters of each words in "Celia Lina Dee Leo" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aaeo
+**********************************
+MODEL's_ANSWER: deeLN
+##############################################################################################
+QUESTION: Take the last letters of each words in "Olga Vicente Joe Antonio" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aeeo
+**********************************
+MODEL's_ANSWER: entav
+##############################################################################################
+QUESTION: Take the last letters of each words in "Zachary Allison Frances Tina" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ynsa
+**********************************
+MODEL's_ANSWER: iaft
+##############################################################################################
+QUESTION: Take the last letters of each words in "Richard Donald Garrett Jan" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ddtn
+**********************************
+MODEL's_ANSWER: tnrjan
+##############################################################################################
+QUESTION: Take the last letters of each words in "Cheryl Rich Armando Brendan" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is lhon
+**********************************
+MODEL's_ANSWER: hlrb
+##############################################################################################
+QUESTION: Take the last letters of each words in "Katy Teresa Nick Diane" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yake
+**********************************
+MODEL's_ANSWER: yncn
+##############################################################################################
+QUESTION: Take the last letters of each words in "Graciela Lourdes Kyle Ann" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is asen
+**********************************
+MODEL's_ANSWER: ealkya
+##############################################################################################
+QUESTION: Take the last letters of each words in "Nelly Alexandra Antonia Marlon" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yaan
+**********************************
+MODEL's_ANSWER: llmra
+##############################################################################################
+QUESTION: Take the last letters of each words in "Luisa Barbara Evelyn George" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aane
+**********************************
+MODEL's_ANSWER: sbg
+##############################################################################################
+QUESTION: Take the last letters of each words in "Allen Emma Brittany Emilio" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nayo
+**********************************
+MODEL's_ANSWER: emibr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Elijah Natalia Dennis Shirley" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is hasy
+**********************************
+MODEL's_ANSWER: yshn
+##############################################################################################
+QUESTION: Take the last letters of each words in "Edith Rosie Dina Aaron" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is hean
+**********************************
+MODEL's_ANSWER: rdna
+##############################################################################################
+QUESTION: Take the last letters of each words in "Yvonne Blanca Craig Dani" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eagi
+**********************************
+MODEL's_ANSWER: gcn
+##############################################################################################
+QUESTION: Take the last letters of each words in "Rudy Natalie Dorothy Victoria" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yeya
+**********************************
+MODEL's_ANSWER: ytv
+##############################################################################################
+QUESTION: Take the last letters of each words in "Kaitlyn Marty Anne Nora" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nyea
+**********************************
+MODEL's_ANSWER: ynrn
+##############################################################################################
+QUESTION: Take the last letters of each words in "Adan Jose Luis Sergio Debbie" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nsoe
+**********************************
+MODEL's_ANSWER: sjlsd
+##############################################################################################
+QUESTION: Take the last letters of each words in "Margaret Deborah Stephen Frank" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is thnk
+**********************************
+MODEL's_ANSWER: rfst
+##############################################################################################
+QUESTION: Take the last letters of each words in "Alexander Emily Leonardo Flor" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ryor
+**********************************
+MODEL's_ANSWER: nerfl
+##############################################################################################
+QUESTION: Take the last letters of each words in "Zach Claire Tania Isabella" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is heaa
+**********************************
+MODEL's_ANSWER: iaic
+##############################################################################################
+QUESTION: Take the last letters of each words in "Blake Chuck Martin Paul" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eknl
+**********************************
+MODEL's_ANSWER: lpck
+##############################################################################################
+QUESTION: Take the last letters of each words in "Humberto Dan Fred Taylor" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ondr
+**********************************
+MODEL's_ANSWER: yrd
+##############################################################################################
+QUESTION: Take the last letters of each words in "Ramon Frankie Amber Ray" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nery
+**********************************
+MODEL's_ANSWER: nry
+##############################################################################################
+QUESTION: Take the last letters of each words in "Lucas Carl Tracey Valerie" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is slye
+**********************************
+MODEL's_ANSWER: scvrl
+##############################################################################################
+QUESTION: Take the last letters of each words in "Danny Sammy Fredy Dave" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yyye
+**********************************
+MODEL's_ANSWER: emdvy
+##############################################################################################
+QUESTION: Take the last letters of each words in "Yolanda Elisa Anna Ashley" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aaay
+**********************************
+MODEL's_ANSWER: aey
+##############################################################################################
+QUESTION: Take the last letters of each words in "Julie Darryl Will Jackie" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is elle
+**********************************
+MODEL's_ANSWER: ieej
+##############################################################################################
+QUESTION: Take the last letters of each words in "Rick Jessie Eddy Brent" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is keyt
+**********************************
+MODEL's_ANSWER: nkdb
+##############################################################################################
+QUESTION: Take the last letters of each words in "Darlene Jean Enrique Mitchell" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is enel
+**********************************
+MODEL's_ANSWER: mnle
+##############################################################################################
+QUESTION: Take the last letters of each words in "Elmer Tatiana Orlando Allan" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is raon
+**********************************
+MODEL's_ANSWER: rlto
+##############################################################################################
+QUESTION: Take the last letters of each words in "Laurie Austin Ingrid Gilbert" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is endt
+**********************************
+MODEL's_ANSWER: rtng
+##############################################################################################
+QUESTION: Take the last letters of each words in "Julian Scott Gonzalo Esteban" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nton
+**********************************
+MODEL's_ANSWER: snteo
+##############################################################################################
+QUESTION: Take the last letters of each words in "Irene Maricela Estela Bobby" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eaay
+**********************************
+MODEL's_ANSWER: aelby
+##############################################################################################
+QUESTION: Take the last letters of each words in "Joey Mariah Claudia Nelson" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yhan
+**********************************
+MODEL's_ANSWER: ylcn
+##############################################################################################
+QUESTION: Take the last letters of each words in "Maurice Isaiah Trey Edwin" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ehyn
+**********************************
+MODEL's_ANSWER: yssde
+##############################################################################################
+QUESTION: Take the last letters of each words in "Vicky Lucia Freddy Abraham" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yaym
+**********************************
+MODEL's_ANSWER: yiafb
+##############################################################################################
+QUESTION: Take the last letters of each words in "Louis Laura Joann Nathan" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is sann
+**********************************
+MODEL's_ANSWER: nnathan
+##############################################################################################
+QUESTION: Take the last letters of each words in "Chase Sally Shaun Hunter" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eynr
+**********************************
+MODEL's_ANSWER: nhss
+##############################################################################################
+QUESTION: Take the last letters of each words in "Gabriel John Jerome Keith" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is lneh
+**********************************
+MODEL's_ANSWER: ekjr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Fidel Lorena Rhonda Israel" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is laal
+**********************************
+MODEL's_ANSWER: ila
+##############################################################################################
+QUESTION: Take the last letters of each words in "Elaine Arthur Destiny Sheila" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is erya
+**********************************
+MODEL's_ANSWER: sdhsea
+##############################################################################################
+QUESTION: Take the last letters of each words in "Peter Jo Annette Mimi" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is roei
+**********************************
+MODEL's_ANSWER: mtmimi
+##############################################################################################
+QUESTION: Take the last letters of each words in "Cameron Araceli Rosy Wanda" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is niya
+**********************************
+MODEL's_ANSWER: nwrd
+##############################################################################################
+QUESTION: Take the last letters of each words in "Cesar Gabriela Marvin Cristina" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is rana
+**********************************
+MODEL's_ANSWER: agvrm
+##############################################################################################
+QUESTION: Take the last letters of each words in "Charlotte Mason Melinda Deb" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is enab
+**********************************
+MODEL's_ANSWER: nbe
+##############################################################################################
+QUESTION: Take the last letters of each words in "Mary Martha Ethan Caroline" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yane
+**********************************
+MODEL's_ANSWER: rcnh
+##############################################################################################
+QUESTION: Take the last letters of each words in "Lily Rachel Domingo Brooke" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yloe
+**********************************
+MODEL's_ANSWER: eomrb
+##############################################################################################
+QUESTION: Take the last letters of each words in "Rafael Nadia Faith Nicholas" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is lahs
+**********************************
+MODEL's_ANSWER: hlsn
+##############################################################################################
+QUESTION: Take the last letters of each words in "Ty Leon Nicolas Carrie" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ynse
+**********************************
+MODEL's_ANSWER: rcnly
+##############################################################################################
+QUESTION: Take the last letters of each words in "Sandy Jorge Bonnie Damian" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yeen
+**********************************
+MODEL's_ANSWER: ymbn
+##############################################################################################
+QUESTION: Take the last letters of each words in "Samuel Courtney Kelly Glenn" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is lyyn
+**********************************
+MODEL's_ANSWER: llkg
+##############################################################################################
+QUESTION: Take the last letters of each words in "Manny Adam Marcos Mari" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ymsi
+**********************************
+MODEL's_ANSWER: omar
+##############################################################################################
+QUESTION: Take the last letters of each words in "Daniela Christian Bryan Rachael" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is annl
+**********************************
+MODEL's_ANSWER: alyrb
+##############################################################################################
+QUESTION: Take the last letters of each words in "Devin Shelby Reyna Rolando" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nyao
+**********************************
+MODEL's_ANSWER: ayrno
+##############################################################################################
+QUESTION: Take the last letters of each words in "Maggie Helen Sherry Derrick" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is enyk
+**********************************
+MODEL's_ANSWER: rrhy
+##############################################################################################
+QUESTION: Take the last letters of each words in "Junior Kenneth Nancy Glenda" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is rhya
+**********************************
+MODEL's_ANSWER: ndnlg
+##############################################################################################
+QUESTION: Take the last letters of each words in "Mike Joyce Lupe Karla" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eeea
+**********************************
+MODEL's_ANSWER: ealu
+##############################################################################################
+QUESTION: Take the last letters of each words in "Aurora Lori Patty Shawn" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aiyn
+**********************************
+MODEL's_ANSWER: awps
+##############################################################################################
+QUESTION: Take the last letters of each words in "James Lindsey Olivia Steven" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is syan
+**********************************
+MODEL's_ANSWER: msols
+##############################################################################################
+QUESTION: Take the last letters of each words in "Caitlin Jackson Beverly Alvaro" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nnyo
+**********************************
+MODEL's_ANSWER: nloav
+##############################################################################################
+QUESTION: Take the last letters of each words in "Raquel Lydia Henry Max" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is layx
+**********************************
+MODEL's_ANSWER: xym
+##############################################################################################
+QUESTION: Take the last letters of each words in "Josefina Lisa Raul Kathryn" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aaln
+**********************************
+MODEL's_ANSWER: nalrka
+##############################################################################################
+QUESTION: Take the last letters of each words in "Kristin Christy Cristian Tammy" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nyny
+**********************************
+MODEL's_ANSWER: mtya
+##############################################################################################
+QUESTION: Take the last letters of each words in "Dawn Tanya Ronnie Amy" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is naey
+**********************************
+MODEL's_ANSWER: Amynr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Megan Douglas Oscar Jeffrey" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nsry
+**********************************
+MODEL's_ANSWER: srf
+##############################################################################################
+QUESTION: Take the last letters of each words in "Erika Ian Pablo Esther" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is anor
+**********************************
+MODEL's_ANSWER: aeh
+##############################################################################################
+QUESTION: Take the last letters of each words in "Roger Donna Mitch Mia" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is raha
+**********************************
+MODEL's_ANSWER: rgmmi
+##############################################################################################
+QUESTION: Take the last letters of each words in "Abigail Derek Bradley Becky" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is lkyy
+**********************************
+MODEL's_ANSWER: kybr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jacqueline Maureen Octavio Ted" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is enod
+**********************************
+MODEL's_ANSWER: edotd
+##############################################################################################
+QUESTION: Take the last letters of each words in "Clara Annie Regina Brett" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aeat
+**********************************
+MODEL's_ANSWER: aetbr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Fabian Nicole Ana Joseph" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is neah
+**********************************
+MODEL's_ANSWER: cnajo
+##############################################################################################
+QUESTION: Take the last letters of each words in "Joanne Mercedes Morgan Abby" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is esny
+**********************************
+MODEL's_ANSWER: ebma
+##############################################################################################
+QUESTION: Take the last letters of each words in "Kerry Theresa Ross Fabiola" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yasa
+**********************************
+MODEL's_ANSWER: osrfa
+##############################################################################################
+QUESTION: Take the last letters of each words in "Kimberly Colleen Kevin Vanessa" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ynna
+**********************************
+MODEL's_ANSWER: yvnk
+##############################################################################################
+QUESTION: Take the last letters of each words in "María Sue Leticia Josh" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aeah
+**********************************
+MODEL's_ANSWER: sjhs
+##############################################################################################
+QUESTION: Take the last letters of each words in "Brad Logan Oliver Edward" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is dnrd
+**********************************
+MODEL's_ANSWER: dleog
+##############################################################################################
+QUESTION: Take the last letters of each words in "Crystal Robin Patricia Pete" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is lnae
+**********************************
+MODEL's_ANSWER: lytpe
+##############################################################################################
+QUESTION: Take the last letters of each words in "Karen Erin Marta Jay" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nnay
+**********************************
+MODEL's_ANSWER: njry
+##############################################################################################
+QUESTION: Take the last letters of each words in "Yvette Riley Bill Patti" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eyli
+**********************************
+MODEL's_ANSWER: ielby
+##############################################################################################
+QUESTION: Take the last letters of each words in "Tamara Gladys Lindsay Tim" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is asym
+**********************************
+MODEL's_ANSWER: mglti
+##############################################################################################
+QUESTION: Take the last letters of each words in "Sean Mauricio Judy Jenna" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is noya
+**********************************
+MODEL's_ANSWER: njuy
+##############################################################################################
+QUESTION: Take the last letters of each words in "Terry Ariana Carolyn Marisa" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yana
+**********************************
+MODEL's_ANSWER: aryam
+##############################################################################################
+QUESTION: Take the last letters of each words in "Carmen Marie Kenny Christopher" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is neyr
+**********************************
+MODEL's_ANSWER: rycn
+##############################################################################################
+QUESTION: Take the last letters of each words in "Chris Franklin Molly Luis" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is snys
+**********************************
+MODEL's_ANSWER: smil
+##############################################################################################
+QUESTION: Take the last letters of each words in "Carla Esmeralda Ryan Bella" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aana
+**********************************
+MODEL's_ANSWER: albr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Thomas Ron Julia Dolores" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is snas
+**********************************
+MODEL's_ANSWER: srl
+##############################################################################################
+QUESTION: Take the last letters of each words in "Shannon Toni Cathy Gustavo" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is niyo
+**********************************
+MODEL's_ANSWER: gnohs
+##############################################################################################
+QUESTION: Take the last letters of each words in "Alison Ricky Gail Bianca" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nyla
+**********************************
+MODEL's_ANSWER: iga
+##############################################################################################
+QUESTION: Take the last letters of each words in "Melvin Jon Rodney Simon" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nnyn
+**********************************
+MODEL's_ANSWER: ons
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jeff Guillermo Sonia Maria" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is foaa
+**********************************
+MODEL's_ANSWER: mria
+##############################################################################################
+QUESTION: Take the last letters of each words in "Dean German Fernando Susie" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nnoe
+**********************************
+MODEL's_ANSWER: engs
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jazmin Joanna Jacob Paige" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nabe
+**********************************
+MODEL's_ANSWER: njppa
+##############################################################################################
+QUESTION: Take the last letters of each words in "Susana Meghan Justin Wayne" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is anne
+**********************************
+MODEL's_ANSWER: nwaej
+##############################################################################################
+QUESTION: Take the last letters of each words in "Miguel Jen Sam Angelo" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is lnmo
+**********************************
+MODEL's_ANSWER: egl
+##############################################################################################
+QUESTION: Take the last letters of each words in "Noe Katrina Patrick Phillip" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eakp
+**********************************
+MODEL's_ANSWER: hkpn
+##############################################################################################
+QUESTION: Take the last letters of each words in "Carol Tj Erica Catherine" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ljae
+**********************************
+MODEL's_ANSWER: rctj
+##############################################################################################
+QUESTION: Take the last letters of each words in "Wilson Kendra Samantha Sabrina" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is naaa
+**********************************
+MODEL's_ANSWER: srsa
+##############################################################################################
+QUESTION: Take the last letters of each words in "Efrain Beatriz Dominic Lance" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nzce
+**********************************
+MODEL's_ANSWER: nciml
+##############################################################################################
+QUESTION: Take the last letters of each words in "Darrell Maritza Hilda Amelia" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is laaa
+**********************************
+MODEL's_ANSWER: ila
+##############################################################################################
+QUESTION: Take the last letters of each words in "Gilberto Melanie Ronald Erick" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is oedk
+**********************************
+MODEL's_ANSWER: oemr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Diego Jordan Mario Ricardo" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is onoo
+**********************************
+MODEL's_ANSWER: oamdr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Noah Suzanne Natasha Bridget" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is heat
+**********************************
+MODEL's_ANSWER: hnat
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jeremy Desiree Corey Lauren" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yeyn
+**********************************
+MODEL's_ANSWER: eyre
+##############################################################################################
+QUESTION: Take the last letters of each words in "Marcelo Gerardo Jeremiah Sylvia" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ooha
+**********************************
+MODEL's_ANSWER: ayls
+##############################################################################################
+QUESTION: Take the last letters of each words in "Cody Holly Moises Linda" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yysa
+**********************************
+MODEL's_ANSWER: lydml
+##############################################################################################
+QUESTION: Take the last letters of each words in "Harold Rocio Eileen Ruby" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is dony
+**********************************
+MODEL's_ANSWER: rbdy
+##############################################################################################
+QUESTION: Take the last letters of each words in "Esperanza Noemi Andy Tracy" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aiyy
+**********************************
+MODEL's_ANSWER: ryn
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jared Betsy Rosario Alberto" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is dyoo
+**********************************
+MODEL's_ANSWER: sroel
+##############################################################################################
+QUESTION: Take the last letters of each words in "Grant Shane Karl Daisy" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is tely
+**********************************
+MODEL's_ANSWER: sydk
+##############################################################################################
+QUESTION: Take the last letters of each words in "Kate Walter Hannah Saul" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is erhl
+**********************************
+MODEL's_ANSWER: sahu
+##############################################################################################
+QUESTION: Take the last letters of each words in "Brandon Alex Marco Philip" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nxop
+**********************************
+MODEL's_ANSWER: omlph
+##############################################################################################
+QUESTION: Take the last letters of each words in "Brandy Timothy Pam Spencer" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yymr
+**********************************
+MODEL's_ANSWER: ysmns
+##############################################################################################
+QUESTION: Take the last letters of each words in "Bob Madison Agustin Javier" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is bnnr
+**********************************
+MODEL's_ANSWER: sjr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Evan Jimmy Francis Tom" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nysm
+**********************************
+MODEL's_ANSWER: mtt
+##############################################################################################
+QUESTION: Take the last letters of each words in "Janice Darren Michelle Princess" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is enes
+**********************************
+MODEL's_ANSWER: nsre
+##############################################################################################
+QUESTION: Take the last letters of each words in "Dana Roy Cynthia Alma" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ayaa
+**********************************
+MODEL's_ANSWER: yrma
+##############################################################################################
+QUESTION: Take the last letters of each words in "Ismael Renee Krystal Margarita" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is lela
+**********************************
+MODEL's_ANSWER: arl
+##############################################################################################
+QUESTION: Take the last letters of each words in "Phyllis Dylan Steve Benjamin" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is snen
+**********************************
+MODEL's_ANSWER: ylsb
+##############################################################################################
+QUESTION: Take the last letters of each words in "Sarah Jason Nate Eric" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is hnec
+**********************************
+MODEL's_ANSWER: enre
+##############################################################################################
+QUESTION: Take the last letters of each words in "Kathy Jenn Pat Phil" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yntl
+**********************************
+MODEL's_ANSWER: hlpp
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jake Juan Carlos Tommy Brenda" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is esya
+**********************************
+MODEL's_ANSWER: emcrb
+##############################################################################################
+QUESTION: Take the last letters of each words in "Cruz Pepe Colin Jesus" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is zens
+**********************************
+MODEL's_ANSWER: zsj
+##############################################################################################
+QUESTION: Take the last letters of each words in "Alfredo Leslie Betty Calvin" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is oeyn
+**********************************
+MODEL's_ANSWER: etlcb
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jenny Connor Curtis Sydney" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yrsy
+**********************************
+MODEL's_ANSWER: ysr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Dulce Terri Rene Isaac" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eiec
+**********************************
+MODEL's_ANSWER: eirisca
+##############################################################################################
+QUESTION: Take the last letters of each words in "Hector Barry Alexa Ed" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ryad
+**********************************
+MODEL's_ANSWER: ecrxe
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jamie Dora Caleb Tomas" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eabs
+**********************************
+MODEL's_ANSWER: mdctb
+##############################################################################################
+QUESTION: Take the last letters of each words in "Mark Denise Anthony Omar" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is keyr
+**********************************
+MODEL's_ANSWER: eio
+##############################################################################################
+QUESTION: Take the last letters of each words in "Charles Manuel Alondra Debra" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is slaa
+**********************************
+MODEL's_ANSWER: rdlde
+##############################################################################################
+QUESTION: Take the last letters of each words in "Greg Marcus Virginia Maribel" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is gsal
+**********************************
+MODEL's_ANSWER: smlv
+##############################################################################################
+QUESTION: Take the last letters of each words in "Salvador Santos William Mariana" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is rsma
+**********************************
+MODEL's_ANSWER: rdms
+##############################################################################################
+QUESTION: Take the last letters of each words in "Wendy Adolfo Eli Doris" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yois
+**********************************
+MODEL's_ANSWER: ieod
+##############################################################################################
+QUESTION: Take the last letters of each words in "Kristen April David Gene" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nlde
+**********************************
+MODEL's_ANSWER: edva
+##############################################################################################
+QUESTION: Take the last letters of each words in "Valeria Rey Pamela Susan" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ayan
+**********************************
+MODEL's_ANSWER: snry
+##############################################################################################
+QUESTION: Take the last letters of each words in "Gina Haley Juana Tara" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ayaa
+**********************************
+MODEL's_ANSWER: ayht
+##############################################################################################
+QUESTION: Take the last letters of each words in "Giovanni Silvia Joshua Katie" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is iaae
+**********************************
+MODEL's_ANSWER: iahk
+##############################################################################################
+QUESTION: Take the last letters of each words in "Luke Kathleen Mayra Randy" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is enay
+**********************************
+MODEL's_ANSWER: erdy
+##############################################################################################
+QUESTION: Take the last letters of each words in "Luz Stanley Carlos Sophia" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is zysa
+**********************************
+MODEL's_ANSWER: ysso
+##############################################################################################
+QUESTION: Take the last letters of each words in "Naomi Elsa Dale Angelina" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is iaea
+**********************************
+MODEL's_ANSWER: ieald
+##############################################################################################
+QUESTION: Take the last letters of each words in "Cj Stacy Eugene Alyssa" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is jyea
+**********************************
+MODEL's_ANSWER: ays
+##############################################################################################
+QUESTION: Take the last letters of each words in "Sandra Alfonso Felicia Connie" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aoae
+**********************************
+MODEL's_ANSWER: afc
+##############################################################################################
+QUESTION: Take the last letters of each words in "Albert Robert Troy Rose" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ttye
+**********************************
+MODEL's_ANSWER: troyrose
+##############################################################################################
+QUESTION: Take the last letters of each words in "Billy Felipe Monique Jessica" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yeea
+**********************************
+MODEL's_ANSWER: jmiej
+##############################################################################################
+QUESTION: Take the last letters of each words in "Marilyn Alice Kelsey Gerald" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is neyd
+**********************************
+MODEL's_ANSWER: yrdls
+##############################################################################################
+QUESTION: Take the last letters of each words in "Francisco Isabel Jonathan Angelica" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is olna
+**********************************
+MODEL's_ANSWER: lia
+##############################################################################################
+QUESTION: Take the last letters of each words in "Joaquin Tonya Jane Hugo" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is naeo
+**********************************
+MODEL's_ANSWER: njae
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jerry Beth Kristina Christina" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yhaa
+**********************************
+MODEL's_ANSWER: rbckc
+##############################################################################################
+QUESTION: Take the last letters of each words in "Joel Rigoberto Vivian Rita" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is lona
+**********************************
+MODEL's_ANSWER: Ritatever
+##############################################################################################
+QUESTION: Take the last letters of each words in "Nathaniel Erik Marcia Rosa" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is lkaa
+**********************************
+MODEL's_ANSWER: ioam
+##############################################################################################
+QUESTION: Take the last letters of each words in "Stephanie Al Angie Tony" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eley
+**********************************
+MODEL's_ANSWER: eyonta
+##############################################################################################
+QUESTION: Take the last letters of each words in "Nina Jennifer Ruth Guadalupe" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is arhe
+**********************************
+MODEL's_ANSWER: edrhg
+##############################################################################################
+QUESTION: Take the last letters of each words in "Chelsea Xavier Zack Raymond" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is arkd
+**********************************
+MODEL's_ANSWER: yxzr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Audrey Elena Chloe Lucy" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is yaey
+**********************************
+MODEL's_ANSWER: ycu
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jocelyn Devon Johnny Aj" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nnyj
+**********************************
+MODEL's_ANSWER: nnj
+##############################################################################################
+QUESTION: Take the last letters of each words in "Liliana Doug Larry Juanita" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is agya
+**********************************
+MODEL's_ANSWER: ailry
+##############################################################################################
+QUESTION: Take the last letters of each words in "Lupita Diana Mona Ralph" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is aaah
+**********************************
+MODEL's_ANSWER: pdmr
+##############################################################################################
+QUESTION: Take the last letters of each words in "Norma Drew Vicki Rodrigo" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is awio
+**********************************
+MODEL's_ANSWER: owird
+##############################################################################################
+QUESTION: Take the last letters of each words in "Milton Ariel Cecilia Brittney" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nlay
+**********************************
+MODEL's_ANSWER: ytnry
+##############################################################################################
+QUESTION: Take the last letters of each words in "Sharon Emmanuel Miriam Jade" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is nlme
+**********************************
+MODEL's_ANSWER: mEJd
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jeanette Sara Josue Bertha" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is eaea
+**********************************
+MODEL's_ANSWER: tsjeb
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jj Daniel Lynn Gaby" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is jlny
+**********************************
+MODEL's_ANSWER: ygl
+##############################################################################################
+QUESTION: Take the last letters of each words in "Angel Andrew Matt Leonel" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is lwtl
+**********************************
+MODEL's_ANSWER: ngeln
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jesse Leah Dustin Deanna" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is ehna
+**********************************
+MODEL's_ANSWER: eidn
+##############################################################################################
+QUESTION: Take the last letters of each words in "Rodolfo Rebecca Shelly Michael" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is oayl
+**********************************
+MODEL's_ANSWER: lymb
+##############################################################################################
+QUESTION: Take the last letters of each words in "Delia Ellen Heather Alfred" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is anrd
+**********************************
+MODEL's_ANSWER: elha
+##############################################################################################
+QUESTION: Take the last letters of each words in "Victor Jasmine Jack Casey" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is reky
+**********************************
+MODEL's_ANSWER: rcysc
+##############################################################################################
+QUESTION: Take the last letters of each words in "Jairo Marissa Liz Danielle" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is oaze
+**********************************
+MODEL's_ANSWER: rdli
+##############################################################################################
+QUESTION: Take the last letters of each words in "Savannah Alejandra Andres Ramiro" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is haso
+**********************************
+MODEL's_ANSWER: nram
+##############################################################################################
+QUESTION: Take the last letters of each words in "Roberto Aida Brianna Arturo" and concatenate them.
+***********************************
+ANSWER: 
+Correct Answer is oaao
+**********************************
+MODEL's_ANSWER: airabr
+##############################################################################################

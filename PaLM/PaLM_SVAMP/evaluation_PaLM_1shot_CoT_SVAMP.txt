@@ -1,0 +1,1618 @@
+QUESTION: Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each packHow much do you have to pay to buy each pack?
+***********************************
+ANSWER: ( 76.0 - 25.0 )=51
+**********************************
+MODEL's_ANSWER: Solution: The price of each pack is 76 dollars. After a discount of 25 dollars, the price of each pack is 76 - 25 = 51 dollars. The answer is 51.
+##############################################################################################
+QUESTION: Dan had $ 3 left with him after he bought a candy bar. If he had $ 4 at the startHow much did the candy bar cost?
+***********************************
+ANSWER: ( 4.0 - 3.0 )=1
+**********************************
+MODEL's_ANSWER: Solution: Let's think step-by-step.
+
+Dan started with $ 4 and bought a candy bar and had $ 3 left. So the candy bar cost $ 4 - $ 3 = $ 1.
+
+
+The final answer is 1
+##############################################################################################
+QUESTION: Paco had 26 salty cookies and 17 sweet cookies. He ate 14 sweet cookies and 9 salty cookies.How many salty cookies did Paco have left?
+***********************************
+ANSWER: ( 26.0 - 9.0 )=17
+**********************************
+MODEL's_ANSWER: Solution:
+First, find the total number of cookies Paco had: 26 + 17 = 43. Then subtract the number of cookies Paco ate: 43 - 14 - 9 = 18. The answer is 18.
+##############################################################################################
+QUESTION: 43 children were riding on the bus. At the bus stop some children got off the bus. Then there were 21 children left on the bus.How many children got off the bus at the bus stop?
+***********************************
+ANSWER: ( 43.0 - 21.0 )=22
+**********************************
+MODEL's_ANSWER: Step-by-step explanation:
+        There were 43 children on the bus and 21 children left on the bus. So 43 - 21 = 22 children got off the bus at the bus stop. The answer is 22.
+##############################################################################################
+QUESTION: 28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus.How many more children got on the bus than those that got off?
+***********************************
+ANSWER: ( 30.0 - 28.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: "At first there were 28 children on the bus. Then 82 children got on the bus. So there were 28 + 82 = 110 children on the bus. Then the number of children on the bus went down to 30. So 110 - 30 = 80 children got off the bus. The number of children that got on the bus is 82 - 80 = 2. The answer is 2."
+##############################################################################################
+QUESTION: There were 3 dollars in Olivia's wallet. She collected 49 more dollars from an atm. After she visited a supermarket there were 49 dollars left.How much more money did she collect at the atm than she spent at the supermarket?
+***********************************
+ANSWER: ( 49.0 - 3.0 )=46
+**********************************
+MODEL's_ANSWER: Solution:
+After visiting the supermarket Olivia had 49 dollars. She had 3 dollars before visiting the supermarket so she spent 49 - 3 = 46 dollars. She collected 49 dollars from the atm and spent 46 dollars at the supermarket so she collected 49 - 46 = 3 dollars more at the atm than she spent at the supermarket.
+The answer: 3.
+##############################################################################################
+QUESTION: Jerry had some action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If there are a total of 10 action figures on his shelf nowHow many action figures did he have initially on the shelf?
+***********************************
+ANSWER: ( 10.0 - 7.0 )=3
+**********************************
+MODEL's_ANSWER: Step-by-step solution:
+        Jerry had 10 - 7 = 3 action figures initially on the shelf.
+        The final answer: 3.
+##############################################################################################
+QUESTION: Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies.How many more cookies did he eat than those he gave to his friend?
+***********************************
+ANSWER: ( 18.0 - 9.0 )=9
+**********************************
+MODEL's_ANSWER: Solution: Paco gave 9 cookies to his friend and ate 18 cookies. So he ate 18 - 9 = 9 more cookies than those he gave to his friend.
+
+##############################################################################################
+QUESTION: Mary is baking a cake. The recipe calls for 3 cups of sugar 10 cups of flour and 15 cups of salt. She already put in 6 cups of flour.How many more cups of flour does she need to add?
+***********************************
+ANSWER: ( 10.0 - 6.0 )=4
+**********************************
+MODEL's_ANSWER: Solution: The recipe calls for 10 cups of flour and Mary has already put in 6 cups. So she needs to add 10 - 6 = 4 cups of flour.
+
+Step-by-step explanation:
+1. The recipe calls for 10 cups of flour.
+2. Mary has already put in 6 cups of flour.
+3. So she needs to add 10 - 6 = 4 cups of flour.
+##############################################################################################
+QUESTION: A waiter had some customers. After 9 customers left he still had 12 customers.How many customers did he have at the start?
+***********************************
+ANSWER: ( 9.0 + 12.0 )=21
+**********************************
+MODEL's_ANSWER: Step-by-step explanation:
+        The waiter had 12 + 9 = 21 customers at the start.
+        The answer is 21.
+##############################################################################################
+QUESTION: 3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them.How many more storks than birds are sitting on the fence?
+***********************************
+ANSWER: ( 6.0 - ( 3.0 + 2.0 ) )=1
+**********************************
+MODEL's_ANSWER: Solution: "3 birds were sitting on the fence. 6 more storks joined them. So there are 3 birds + 6 storks = 9 birds and storks on the fence. 2 more birds joined them. So there are 9 birds + 2 birds = 11 birds and storks on the fence. 6 storks joined them. So there are 11 birds and storks - 3 birds = 8 storks on the fence. The answer is 8."
+##############################################################################################
+QUESTION: They decided to hold the party in their backyard. If they have 11 sets of tables and each set has 13 chairsHow many chairs do they have in the backyard?
+***********************************
+ANSWER: ( 11.0 * 13.0 )=143
+**********************************
+MODEL's_ANSWER: Solution: "They have 11 sets of tables and each set has 13 chairs, so there are 11 * 13 = 143 chairs in their backyard. The answer is 143."
+##############################################################################################
+QUESTION: In a school there are 458 more girls than boys. If there are 692 girlsHow many pupils are there in that school?
+***********************************
+ANSWER: ( ( 692.0 + 692.0 ) - 458.0 )=926
+**********************************
+MODEL's_ANSWER: Solution: If there are 692 girls, and 458 more girls than boys, then there are 692 + 458 = 1150 girls. If there are 1150 girls, then there must be 1150 - 458 = 692 boys. In total, there are 692 + 1150 = 1842 pupils. The answer is 1842.
+
+Step-by-step explanation:
+1. If there are 692 girls, and 458 more girls than boys, then there are 692 + 458 = 1150 girls.
+2. If there are 1150 girls, then there must be 1150 - 458 = 692 boys.
+3. In total, there are 692 + 1150 = 1842 pupils.
+##############################################################################################
+QUESTION: After resting they decided to go for a swim. The depth of the water is 15 times Dean's height. Dean is 4 feet taller than Ron. If Ron stands at 13 feetHow deep was the water?
+***********************************
+ANSWER: ( ( 4.0 + 13.0 ) * 15.0 )=255
+**********************************
+MODEL's_ANSWER: Solution:
+1. Dean is 13 + 4 = 17 feet tall.
+2. The water is 15 * 17 = 255 feet deep.
+3. The answer is 255.
+##############################################################################################
+QUESTION: 6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them.How many birds are sitting on the fence?
+***********************************
+ANSWER: ( 6.0 + 4.0 )=10
+**********************************
+MODEL's_ANSWER: Solution: "First we add the birds and storks that came to join them: 4 birds + 8 storks = 12 birds. Then we add them to the birds that were already sitting on the fence: 12 birds + 6 birds = 18 birds. The answer is 18."
+##############################################################################################
+QUESTION: Marco and his dad went strawberry picking. Together they collected strawberries that weighed 36 pounds. On the way back Marco ' dad lost 8 pounds of strawberries. Marco's strawberries now weighed 12 pounds.How much did his dad's strawberries weigh now?
+***********************************
+ANSWER: ( ( 36.0 - 12.0 ) - 8.0 )=16
+**********************************
+MODEL's_ANSWER: Solution:
+        Step 1: Marco and his dad had 36 pounds of strawberries. Marco's strawberries now weigh 12 pounds. So his dad's strawberries weigh 36 - 12 = 24 pounds.
+        Step 2: Marco's dad lost 8 pounds of strawberries. So his dad's strawberries now weigh 24 - 8 = 16 pounds.
+        The final answer: 16.
+##############################################################################################
+QUESTION: In a school there are 697 girls and the rest are boys. If there are 228 more girls than boysHow many boys are there in that school?
+***********************************
+ANSWER: ( 697.0 - 228.0 )=469
+**********************************
+MODEL's_ANSWER: Solution: The total number of girls and boys in the school is 697 + x = 228 + x + 697 = 925 + x. So, there are 925 + x - 697 = 228 boys in the school. The answer is 228.
+
+Step-by-step explanation:
+1. The total number of girls and boys in the school is 697 + x = 228 + x + 697 = 925 + x.
+2. So, there are 925 + x - 697 = 228 boys in the school.
+##############################################################################################
+QUESTION: In a school there are 732 girls and 761 boys. 682 more girls and 8 more boys joined the school.How many girls are there in the school now?
+***********************************
+ANSWER: ( 732.0 + 682.0 )=1414
+**********************************
+MODEL's_ANSWER: Solution: Step-by-step explanation:
+
+Initially, the number of girls in the school is 732. After 682 more girls join the school, the number of girls in the school becomes 732 + 682 = 1414.
+
+Initially, the number of boys in the school is 761. After 8 more boys join the school, the number of boys in the school becomes 761 + 8 = 769.
+
+Therefore, the total number of students in the school is 1414 + 769 = 2183.
+
+The answer: 2183.
+##############################################################################################
+QUESTION: Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection.How many wrappers did danny have at first?
+***********************************
+ANSWER: ( 57.0 - 30.0 )=27
+**********************************
+MODEL's_ANSWER: Solution: He got 17 - 22 = -5 bottle caps. So he had 57 - 30 = 27 wrappers at first.
+
+##############################################################################################
+QUESTION: Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser.How many more crayons than erasers did he have left?
+***********************************
+ANSWER: ( 523.0 - 457.0 )=66
+**********************************
+MODEL's_ANSWER: Solution: Paul had 617 - 523 = 94 more crayons than erasers.
+
+##############################################################################################
+QUESTION: Baker made 121 cakes. He sold 105 of them and bought 170 new cakes.How many cakes does baker still have?
+***********************************
+ANSWER: ( ( 121.0 - 105.0 ) + 170.0 )=186
+**********************************
+MODEL's_ANSWER: Solution:
+First find the number of cakes left after selling: 121 - 105 = 16. Then add the number of cakes bought to find the total number of cakes: 16 + 170 = 186.
+The final answer: 186.
+##############################################################################################
+QUESTION: An industrial machine worked for 5 minutes. It can make 4 shirts a minute.How many shirts did machine make?
+***********************************
+ANSWER: ( 4.0 * 5.0 )=20
+**********************************
+MODEL's_ANSWER: Solution: "The machine worked for 5 minutes, and can make 4 shirts a minute, so it made 5 * 4 = 20 shirts. The answer is 20."
+##############################################################################################
+QUESTION: The bananas in Philip's collection are organized into groups of size 18. If there are a total of 180 bananas in Philip's banana collectionHow many groups are there?
+***********************************
+ANSWER: ( 180.0 / 18.0 )=10
+**********************************
+MODEL's_ANSWER: Solution: "If Philip has 180 bananas, and each group has 18 bananas, then the number of groups is 180 / 18 = 10. The answer is 10."
+##############################################################################################
+QUESTION: There were some birds sitting on the fence. 4 more birds came to join them. If there are a total of 5 birds on the fence nowHow many birds had been sitting on the fence at the start?
+***********************************
+ANSWER: ( 5.0 - 4.0 )=1
+**********************************
+MODEL's_ANSWER: Solution: 1. There were 5 birds on the fence after 4 more joined them. So there were 5 - 4 = 1 bird on the fence at the start.
+2. The answer is 1.
+##############################################################################################
+QUESTION: Jerry had 3 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed some of the old ones. If there are 6 action figures on his shelf nowHow many action figures did he remove from the shelf?
+***********************************
+ANSWER: ( ( 3.0 + 4.0 ) - 6.0 )=1
+**********************************
+MODEL's_ANSWER: Solution:
+
+1. Jerry originally had 3 action figures on the shelf.
+2. He added 4 more action figures to the shelf, for a total of 3 + 4 = 7 action figures.
+3. Since there are now 6 action figures on the shelf, he must have removed 7 - 6 = 1 action figure from the shelf.
+
+The answer: 1.
+##############################################################################################
+QUESTION: Danny collects bottle caps and wrappers. He found 65 wrappers and 5 bottle caps at the park. Now he has 31 bottle caps and 9 wrappers in his collection.How many more wrappers than bottle caps did danny find at the park?
+***********************************
+ANSWER: ( 65.0 - 5.0 )=60
+**********************************
+MODEL's_ANSWER: Solution: Danny found 65 - 9 = 56 more wrappers than he has now. He found 65 - 5 = 60 more wrappers than bottle caps.
+The answer: 60.
+##############################################################################################
+QUESTION: Because of the decision Sofia asked the students to suggest specific types of food from a total of 66 choices. If 450 students suggested adding mashed potatoes 38 suggested adding bacon to the menu and the rest did not participateHow many students participated in the suggestion of new food items?
+***********************************
+ANSWER: ( 450.0 + 38.0 )=488
+**********************************
+MODEL's_ANSWER: Solution:
+
+First find the total number of students that suggested new food items by adding the number that suggested mashed potatoes and the number that suggested bacon: 450 + 38 = 488. Then subtract that number from the total number of students to find the number that did not participate: 660 - 488 = 172.
+
+The answer: 172.
+##############################################################################################
+QUESTION: Matthew gave equal numbers of crackers and cakes to his 28 friends. If he had 13 crackers and 15 cakes initiallyHow many crackers and cakes did each person eat?
+***********************************
+ANSWER: ( ( 13.0 + 15.0 ) / 28.0 )=1
+**********************************
+MODEL's_ANSWER: Solution: Matthew gave 13 crackers and 15 cakes to 28 friends. So each person got 13 / 28 = 0.44 crackers and 15 / 28 = 0.54 cakes.
+
+##############################################################################################
+QUESTION: A grocery store had 49 bottles of regular soda, 40 bottles of diet soda and 6 bottles of lite soda.How many bottles of regular soda and diet soda did they have altogether?
+***********************************
+ANSWER: ( 40.0 + 49.0 )=89
+**********************************
+MODEL's_ANSWER: Solution: "A grocery store had 49 bottles of regular soda and 40 bottles of diet soda. So they had 49 + 40 = 89 bottles of regular soda and diet soda altogether. The answer is 89."
+##############################################################################################
+QUESTION: Dan has $ 3. He bought 2 candy bar for $ 4, each one costing the same amount of money.How much did each candy bar cost?
+***********************************
+ANSWER: ( 4.0 / 2.0 )=2
+**********************************
+MODEL's_ANSWER: Solution:
+Dan has $3. He bought 2 candy bars for $4. So each candy bar cost $4 / 2 = $2. The answer is 2.
+##############################################################################################
+QUESTION: Tiffany was collecting cans for recycling. On monday she had 7 bags of cans. The next day she found 12 more bags worth of cans.How many more bags did she find on the next day than she had on monday?
+***********************************
+ANSWER: ( 12.0 - 7.0 )=5
+**********************************
+MODEL's_ANSWER: Solution: Tiffany had 7 bags on monday and 12 more bags the next day, so she had 7 + 12 = 19 bags of cans on tuesday. The difference between the number of bags she had on tuesday and the number she had on monday is 19 - 7 = 12. So the answer is 12.
+
+Step-by-step explanation:
+1. Tiffany had 7 bags of cans on monday.
+2. The next day she found 12 more bags worth of cans.
+3. So she had 7 + 12 = 19 bags of cans on tuesday.
+4. The difference between the number of bags she had on tuesday and the number she had on monday is 19 - 7 = 12.
+5. So the answer is 12.
+##############################################################################################
+QUESTION: There were 15 roses and 62 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 17 roses and 96 orchids in the vase.How many roses did she cut?
+***********************************
+ANSWER: ( 17.0 - 15.0 )=2
+**********************************
+MODEL's_ANSWER: Solution:
+        There are 17 roses now, and there were 15 roses originally, so she cut 17 - 15 = 2 roses.
+
+##############################################################################################
+QUESTION: There are some baskets of peaches. Each basket has 4 red peaches and 3 green peaches. If there are a total of 7 peaches in all basketsHow many baskets of peaches are there?
+***********************************
+ANSWER: ( 7.0 / ( 4.0 + 3.0 ) )=1
+**********************************
+MODEL's_ANSWER: Solution: "Let x be the number of baskets. There are 4x red peaches and 3x green peaches. In total, there are 4x + 3x = 7x peaches. Since there are 7 peaches in total, we can say 7 = 7x. Dividing both sides by 7, we get x = 1. The answer is 1."
+##############################################################################################
+QUESTION: There were 78 dollars in Olivia's wallet. She spent 15 dollars at a supermarket.How much money does she have left?
+***********************************
+ANSWER: ( 78.0 - 15.0 )=63
+**********************************
+MODEL's_ANSWER: Solution: Olivia had 78 dollars. She spent 15 dollars. So she has 78 - 15 = 63 dollars left.
+
+##############################################################################################
+QUESTION: Jack received 6 emails in the morning, 3 emails in the afternoon and some more in the evening. If he received a total of 10 emails in the dayHow many emails did Jack receive in the afternoon?
+***********************************
+ANSWER: ( 10.0 - ( 6.0 + 3.0 ) )=1
+**********************************
+MODEL's_ANSWER: Step-by-step solution:
+Jack received 6 emails in the morning and 3 emails in the afternoon, so he received a total of 6 + 3 = 9 emails in the morning and afternoon. Jack received a total of 10 emails in the day, so he received 10 - 9 = 1 email in the evening.
+The answer: 1.
+##############################################################################################
+QUESTION: Dan has $ 4. He bought a candy bar for $ 8. Then his friend have him $ 5How much money is left?
+***********************************
+ANSWER: ( ( 4.0 - 8.0 ) + 5.0 )=1
+**********************************
+MODEL's_ANSWER: **Solution:**
+
+1. Dan had $4.
+2. He bought a candy bar for $8.
+3. So, he has $4 - $8 = -$4.
+4. His friend gave him $5.
+5. So, he has -$4 + $5 = $1.
+
+Therefore, Dan has $1 left.
+##############################################################################################
+QUESTION: After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 703 visitors came to the Buckingham palace on the previous day. If there were 246 visitors on that dayHow many visited the Buckingham palace within 25 days?
+***********************************
+ANSWER: ( 246.0 + 703.0 )=949
+**********************************
+MODEL's_ANSWER: Step-by-step explanation:
+On that day, there were 246 + 703 = 949 visitors. So, in 25 days, there were 949 * 25 = 23,725 visitors to the Buckingham palace.
+The answer: 23,725.
+##############################################################################################
+QUESTION: For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 7 more dollars. If she spent 4 dollars.How much more money did she receive from her mom than she did from her dad?
+***********************************
+ANSWER: ( 7.0 - 5.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: "Gwen received 5 + 7 = 12 dollars from her mom and dad combined. So she received 12 - 4 = 8 more dollars from her mom than from her dad. The answer is 8."
+##############################################################################################
+QUESTION: There are 142 bananas and 356 oranges in Philip's collection. If the bananas are organized into 47 groups and oranges are organized into 178 groupsHow big is each group of oranges?
+***********************************
+ANSWER: ( 356.0 / 178.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: "The total number of fruits is 142 + 356 = 508. The number of groups is 47 + 178 = 225. So each group is 508 / 225 = 2.2. The answer is 2."
+##############################################################################################
+QUESTION: There are 8 different books and 5 different movies in the ' crazy silly school ' series. If you read 19 of the movies and watched 16 of the booksHow many more movies than books have you read?
+***********************************
+ANSWER: ( 19.0 - 16.0 )=3
+**********************************
+MODEL's_ANSWER: Solution: 1. There are 8 + 5 = 13 different books and movies in the crazy silly school series.
+2. You read 19 movies and 16 books.
+3. You read 19 - 16 = 3 more movies than books.
+
+The answer is 3.
+##############################################################################################
+QUESTION: Mary is baking a cake. The recipe calls for 12 cups of flour and 5 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flourHow many cups of flour did she put in?
+***********************************
+ANSWER: ( 12.0 - 2.0 )=10
+**********************************
+MODEL's_ANSWER: Solution: "Mary needs 12 cups of flour. She already put in some. She still needs 2 more cups of flour. So, she must have put in 12 - 2 = 10 cups of flour. The answer is 10."
+##############################################################################################
+QUESTION: Danny collects bottle caps and wrappers. He found 46 wrappers and 50 bottle caps at the park. Now he has 21 bottle caps and 52 wrappers in his collection.How many more bottle caps than wrappers did danny find at the park?
+***********************************
+ANSWER: ( 50.0 - 46.0 )=4
+**********************************
+MODEL's_ANSWER: Solution:
+        Danny found 50 - 46 = 4 more bottle caps than wrappers at the park.
+
+##############################################################################################
+QUESTION: Luke played 177 rounds of a trivia game. If he gained 46 points in each roundHow many points did he score in the game?
+***********************************
+ANSWER: ( 177.0 * 46.0 )=8142
+**********************************
+MODEL's_ANSWER: Solution:
+Luke played 177 rounds of a trivia game. If he gained 46 points in each round, he scored 177 * 46 = 8142 points.
+
+The answer is 8142.
+##############################################################################################
+QUESTION: 3 birds and 4 storks were sitting on the fence. 2 more birds came to join them.How many more birds than storks are sitting on the fence?
+***********************************
+ANSWER: ( ( 3.0 + 2.0 ) - 4.0 )=1
+**********************************
+MODEL's_ANSWER: Solution: 7 birds and 4 storks are sitting on the fence. So there are 7 - 4 = 3 more birds than storks. The answer is 3.
+
+Step-by-step explanation:
+1. There were 3 birds and 4 storks on the fence.
+2. 2 more birds came to join them.
+3. So there are 3 + 2 = 5 birds on the fence.
+4. There are 7 birds and 4 storks on the fence.
+5. So there are 7 - 4 = 3 more birds than storks.
+##############################################################################################
+QUESTION: The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 9 inches. The mouse jumped 3 inches lesser than the frog who jumped 33 inches farther than the grasshopper.How far did the mouse jump?
+***********************************
+ANSWER: ( ( 9.0 + 33.0 ) - 3.0 )=39
+**********************************
+MODEL's_ANSWER: Solution: "The frog jumped 33 + 9 = 42 inches. The mouse jumped 42 - 3 = 39 inches. The answer is 39."
+##############################################################################################
+QUESTION: Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary.How many more push-ups than crunches did Zachary do?
+***********************************
+ANSWER: ( 35.0 - 3.0 )=32
+**********************************
+MODEL's_ANSWER: Solution: David did 35 + 58 = 93 push-ups. David did 3 - 87 = -84 crunches. Zachary did 35 - 3 = 32 more push-ups than crunches.
+The answer is 32.
+##############################################################################################
+QUESTION: Jack received 4 emails in the morning, 5 emails in the afternoon and 8 emails in the evening.How many emails did Jack receive in the afternoon and evening?
+***********************************
+ANSWER: ( 5.0 + 8.0 )=13
+**********************************
+MODEL's_ANSWER: Solution:
+        - Jack received 4 emails in the morning.
+        - Jack received 5 emails in the afternoon.
+        - Jack received 8 emails in the evening.
+        - Jack received a total of 4 + 5 + 8 = 17 emails in the afternoon and evening.
+        - The answer is 17.
+##############################################################################################
+QUESTION: Jerry had 7 action figures on a shelf in his room. Later he added some more action figures to the shelf and removed 10 of the old ones. If there are 8 action figures on his shelf nowHow many action figures did he add to the shelf?
+***********************************
+ANSWER: ( ( 8.0 + 10.0 ) - 7.0 )=11
+**********************************
+MODEL's_ANSWER: Solution:
+
+1. Jerry started with 7 action figures.
+2. He added some more action figures, so there are now 8 action figures on the shelf.
+3. Therefore, he added 8 - 7 = 1 action figure.
+
+The answer is 1.
+##############################################################################################
+QUESTION: Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. She spent a total of 34 hours to play tag on both days.How many kids did she play with altogether?
+***********************************
+ANSWER: ( 12.0 + 14.0 )=26
+**********************************
+MODEL's_ANSWER: Solution: Julia spent 12 + 14 = 26 hours playing tag with kids on both days. So she played with 26 / 34 * 100 = 76.47% of the time playing tag with kids. So she played with 100 - 76.47 = 23.53% of the time doing other things. So she spent 34 * 23.53 = 79.99 hours doing other things. So she played with 34 - 79.99 = 54.01 hours doing other things. So she played with 54.01 / 2 = 27.005 kids on tuesday. So she played with 12 + 27 = 39 kids altogether. The answer is 39.
+
+##############################################################################################
+QUESTION: Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left.How many more baseball cards than Ace cards does Nell have?
+***********************************
+ANSWER: ( 415.0 - 149.0 )=266
+**********************************
+MODEL's_ANSWER: Solution: Nell had 309 baseball cards and 356 Ace cards for a total of 309 + 356 = 665 cards. After giving some cards to Jeff, Nell has 415 baseball cards and Ace cards left for a total of 415 + 415 = 830 cards. Nell has 830 - 665 = 165 more baseball cards than Ace cards.
+
+The step-by-step solution is:
+
+1. Nell had 309 baseball cards and 356 Ace cards for a total of 309 + 356 = 665 cards.
+2. After giving some cards to Jeff, Nell has 415 baseball cards and Ace cards left for a total of 415 + 415 = 830 cards.
+3. Nell has 830 - 665 = 165 more baseball cards than Ace cards.
+##############################################################################################
+QUESTION: At the zoo, a cage had 93 snakes and 97 alligators. If 40 alligators were hidingHow many alligators were not hiding?
+***********************************
+ANSWER: ( 97.0 - 40.0 )=57
+**********************************
+MODEL's_ANSWER: Solution: "There were 93 snakes and 97 alligators in the cage, for a total of 93 + 97 = 190 animals. If 40 alligators were hiding, then 190 - 40 = 150 alligators were not hiding. The answer is 150."
+##############################################################################################
+QUESTION: You have read 8 books from the ' crazy silly school ' series. If there are a total of 14 different books in the ' crazy silly school ' seriesHow many more do you still have to read?
+***********************************
+ANSWER: ( 14.0 - 8.0 )=6
+**********************************
+MODEL's_ANSWER: Solution: You have already read 8 books, and there are 14 books in total. So you have 14 - 8 = 6 more books to read.
+
+##############################################################################################
+QUESTION: Emily is making bead necklaces for her 43 friends. She had 20 beads and she was able to make 5 necklaces.How many beads did each necklace need?
+***********************************
+ANSWER: ( 20.0 / 5.0 )=4
+**********************************
+MODEL's_ANSWER: Solution: Emily had 20 beads and made 5 necklaces, so each necklace got 20 / 5 = 4 beads.
+
+##############################################################################################
+QUESTION: Frank put 11 pieces of candy in each bag. If he had 22 pieces of candyHow many bags would he have?
+***********************************
+ANSWER: ( 22.0 / 11.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: Frank put 11 pieces of candy in each bag. If he had 22 pieces of candy, he would have 22 / 11 = 2 bags.
+
+The answer is 2.
+##############################################################################################
+QUESTION: A waiter had 12 customers. After some left he still had 14 customers. Then he got 10 new customersHow many customers does he have now?
+***********************************
+ANSWER: ( 14.0 + 10.0 )=24
+**********************************
+MODEL's_ANSWER: Solution: "A waiter had 12 customers. After some left he still had 14 customers. So there must have been 14 - 12 = 2 customers who left. Then he got 10 new customers. So now he has 14 + 10 = 24 customers. The answer is 24."
+##############################################################################################
+QUESTION: A farmer had 90 tomatoes in his garden. If he picked 154 of them yesterday and 50 today.How many tomatoes did he pick in all?
+***********************************
+ANSWER: ( 154.0 + 50.0 )=204
+**********************************
+MODEL's_ANSWER: Solution: "He picked 154 yesterday and 50 today. So he picked a total of 154 + 50 = 204 tomatoes in all. The answer is 204."
+##############################################################################################
+QUESTION: 5 red peaches, 14 yellow peaches and 6 green peaches are in the basket.How many green and yellow peaches are in the basket?
+***********************************
+ANSWER: ( 6.0 + 14.0 )=20
+**********************************
+MODEL's_ANSWER: Solution: There are 5 + 14 = 19 yellow and green peaches in the basket.
+
+##############################################################################################
+QUESTION: Winter is almost here and most animals are migrating to warmer countries. There were 89 bird families living near the mountain. If 60 bird families flew away for winterHow many more bird families flew away for the winter than those that stayed behind?
+***********************************
+ANSWER: ( 60.0 - ( 89.0 - 60.0 ) )=31
+**********************************
+MODEL's_ANSWER: Solution: "There were 89 bird families and 60 flew away for winter. So 89 - 60 = 29 bird families stayed behind. The answer is 29."
+##############################################################################################
+QUESTION: There were 9 roses and 6 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 13 orchids and 3 roses in the vase.How many more orchids than roses are there in the vase now?
+***********************************
+ANSWER: ( 13.0 - 3.0 )=10
+**********************************
+MODEL's_ANSWER: Step-by-step solution:
+        There were 9 + 6 = 15 roses and orchids in the vase. Then Jessica cut some more roses and orchids, leaving 13 + 3 = 16 roses and orchids in the vase. Therefore, there are 16 - 15 = 1 more orchid than rose in the vase now.
+        The answer is 1.
+##############################################################################################
+QUESTION: After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. If there were 600 visitors the previous dayHow many more visitors visited the Buckingham palace on that day than on the previous day?
+***********************************
+ANSWER: ( 661.0 - 600.0 )=61
+**********************************
+MODEL's_ANSWER: Solution: "There were 661 visitors on the day Rachel visited the Buckingham palace. The previous day there were 600 visitors. So there were 661 - 600 = 61 more visitors that day. The answer is 61."
+##############################################################################################
+QUESTION: A waiter had 12 customers. While 15 customers left he got 14 new customers.How many customers does he still have?
+***********************************
+ANSWER: ( ( 12.0 - 15.0 ) + 14.0 )=11
+**********************************
+MODEL's_ANSWER: **Solution:**
+        1. The waiter started with 12 customers.
+        2. 15 customers left, so there are now 12 - 15 = -3 customers.
+        3. The waiter got 14 new customers, so there are now -3 + 14 = 11 customers.
+        4. The answer is 11.
+##############################################################################################
+QUESTION: Emily is making bead necklaces for her 72 friends. She has 6 beads and each necklace takes 3 beads.How many necklaces can Emily make?
+***********************************
+ANSWER: ( 6.0 / 3.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: Emily has 6 beads and each necklace takes 3 beads so she can make 6 / 3 = 2 necklaces.
+
+Step-by-step explanation:
+1. Emily has 6 beads.
+2. Each necklace takes 3 beads.
+3. Emily can make 6 / 3 = 2 necklaces.
+##############################################################################################
+QUESTION: He also had 26 aquariums for saltwater animals. The aquarium had 52 saltwater animals in total and every aquarium had the same number of animals.How many saltwater animals does each aquarium have?
+***********************************
+ANSWER: ( 52.0 / 26.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: "The aquarium had 52 saltwater animals in total and every aquarium had the same number of animals so each aquarium has 52 / 26 = 2 saltwater animals. The answer is 2."
+##############################################################################################
+QUESTION: Mary is baking a cake. The recipe calls for 11 cups of flour and 7 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flour than sugarHow many cups of flour did she put in?
+***********************************
+ANSWER: ( ( 11.0 - 7.0 ) - 2.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: "Mary needs 11 - 7 = 4 more cups of flour than sugar. She put in some cups of flour, so she has 4 + x = flour. The answer is x = 4."
+##############################################################################################
+QUESTION: Baker made 149 cakes and 91 pastries. If he sold 10 cakes and 90 pastriesHow many cakes would baker still have?
+***********************************
+ANSWER: ( 149.0 - 10.0 )=139
+**********************************
+MODEL's_ANSWER: Solution: Baker made 149 cakes and 91 pastries. So he had 149 + 91 = 240 items. He sold 10 cakes and 90 pastries. So he sold 10 + 90 = 100 items. He still has 240 - 100 = 140 items. The answer is 140.
+##############################################################################################
+QUESTION: Dave had 24 files and 13 apps on his phone. After deleting some apps and files he had 17 apps and 21 files left.How many files did he delete?
+***********************************
+ANSWER: ( 24.0 - 21.0 )=3
+**********************************
+MODEL's_ANSWER: Solution: Chain-of-thought:
+Dave started with 24 files + 13 apps = 37 items on his phone. After deleting some items, he has 17 apps + 21 files = 38 items left. So he must have deleted 37 - 38 = 1 item. Since he deleted 1 file and 13 apps, he must have deleted 1 + 13 = 14 files.
+
+The answer should be 14
+##############################################################################################
+QUESTION: An industrial machine made 9 shirts yesterday and 8 shirts today. It can make 2 shirts a minute.How many minutes did the machine work today?
+***********************************
+ANSWER: ( 8.0 / 2.0 )=4
+**********************************
+MODEL's_ANSWER: Solution: The machine made 9 + 8 = 17 shirts. So it worked for 17 / 2 = 8.5 minutes. So the machine worked for 8 minutes today.
+
+##############################################################################################
+QUESTION: Rebecca wants to split a collection of eggs into 3 groups. Rebecca has 4 marbles and 15 eggs.How many eggs will each group have?
+***********************************
+ANSWER: ( 15.0 / 3.0 )=5
+**********************************
+MODEL's_ANSWER: Solution: Rebecca has 15 + 4 = 19 eggs. She wants to split the eggs into 3 groups, so each group will have 19 / 3 = 6 eggs.
+
+##############################################################################################
+QUESTION: Matthew had some crackers. If Matthew gave 2 crackers to each of his 11 friendsHow many crackers did Matthew have?
+***********************************
+ANSWER: ( 11.0 * 2.0 )=22
+**********************************
+MODEL's_ANSWER: Solution: Matthew gave 11 x 2 = 22 crackers to his friends. So he must have had 22 + 22 = 44 crackers. The answer is 44.
+
+Step-by-step explanation:
+1. Matthew gave 2 crackers to each of his 11 friends.
+2. So he must have given 11 x 2 = 22 crackers to his friends.
+3. So he must have had 22 + 22 = 44 crackers.
+4. The answer is 44.
+##############################################################################################
+QUESTION: Olivia spent 78 dollars at a supermarket. If she has 33 dollars left with herHow much money did she have initially?
+***********************************
+ANSWER: ( 78.0 + 33.0 )=111
+**********************************
+MODEL's_ANSWER: Step-by-step explanation:
+Olivia had 78 + 33 = 111 dollars initially.
+The answer is 111.
+##############################################################################################
+QUESTION: If Lewis earns $ 1357 every week during the 223 weeks of a harvest season.How much money will he earn if he works for 73 harvest seasons?
+***********************************
+ANSWER: ( ( 1357.0 * 223.0 ) * 73.0 )=22090603
+**********************************
+MODEL's_ANSWER: Solution: 1. Lewis earns $ 1357 every week during the 223 weeks of a harvest season. So, in 73 harvest seasons, he will earn 1357 * 73 = $ 98,861.
+2. The answer is 98,861.
+##############################################################################################
+QUESTION: Because of the decision Sofia asked 310 students to suggest specific types of food. 185 students suggested adding mashed potatoes while others suggested adding bacon to the menu.How many students suggested bacon?
+***********************************
+ANSWER: ( 310.0 - 185.0 )=125
+**********************************
+MODEL's_ANSWER: Solution: Sofia asked 310 students to suggest specific types of food. 185 students suggested adding mashed potatoes. There were 310 - 185 = 125 students who suggested bacon. The answer is 125.
+
+Step-by-step explanation:
+1. Sofia asked 310 students to suggest specific types of food.
+2. 185 students suggested adding mashed potatoes.
+3. There were 310 - 185 = 125 students who suggested bacon.
+4. The answer is 125.
+##############################################################################################
+QUESTION: Jack received 3 emails and 64 letters in the morning. He then received 5 emails and 54 letters in the afternoon.How many emails did jack receive in the day?
+***********************************
+ANSWER: ( 3.0 + 5.0 )=8
+**********************************
+MODEL's_ANSWER: Solution: Jack received 3 + 5 = 8 emails in the day.
+
+##############################################################################################
+QUESTION: Paco had 40 cookies. He ate 2 of them. Then he bought 37 more cookiesHow many cookies did Paco have left?
+***********************************
+ANSWER: ( ( 40.0 - 2.0 ) + 37.0 )=75
+**********************************
+MODEL's_ANSWER: Solution: "Paco had 40 cookies and ate 2 of them, so he had 40 - 2 = 38 cookies left. He then bought 37 more cookies, so he had 38 + 37 = 75 cookies left. The answer is 75."
+##############################################################################################
+QUESTION: Because of the decision Sofia asked the students to suggest specific types of food. If 218 students suggested adding mashed potatoes as well as bacon while 351 suggested adding only bacon to the menuHow many students suggested adding bacon?
+***********************************
+ANSWER: ( 218.0 + 351.0 )=569
+**********************************
+MODEL's_ANSWER: Solution: 218 students suggested adding mashed potatoes as well as bacon which means they suggested adding bacon 218 + 1 = 219 times. 351 students suggested adding only bacon to the menu. 219 + 351 = 570 students suggested adding bacon.
+
+The answer: 570.
+##############################################################################################
+QUESTION: If each bag has 41 cookies and you had 53 bags of cookiesHow many cookies would you have?
+***********************************
+ANSWER: ( 53.0 * 41.0 )=2173
+**********************************
+MODEL's_ANSWER: Solution: 1. If each bag has 41 cookies, then 53 bags of cookies would have a total of 53 * 41 = 2173 cookies.
+2. The answer is 2173.
+##############################################################################################
+QUESTION: Rachel had to complete 2 pages of reading homework and 4 pages of math homework.How many more pages of math homework than reading homework did she have?
+***********************************
+ANSWER: ( 4.0 - 2.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: Rachel had to complete 2 pages of reading homework and 4 pages of math homework. There are 4 - 2 = 2 more pages of math homework than reading homework. The answer is 2.
+##############################################################################################
+QUESTION: Allan brought 5 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park.How many balloons did Allan bring to the park?
+***********************************
+ANSWER: ( 5.0 + 3.0 )=8
+**********************************
+MODEL's_ANSWER: Solution: Allan bought 5 + 3 = 8 balloons to the park.
+
+Step-by-step explanation:
+Allan brought 5 balloons to the park. He then bought 3 more balloons. So, he brought a total of 5 + 3 = 8 balloons to the park.
+##############################################################################################
+QUESTION: Julia played tag with 8 kids on monday, 11 kids on tuesday and 9 kids on wednesday.How many more kids did she play with on tuesday than on wednesday?
+***********************************
+ANSWER: ( 11.0 - 9.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: On monday she played with 8 kids, on tuesday she played with 11 kids and on wednesday with 9 kids. So, she played with 11 - 9 = 2 more kids on tuesday than on wednesday.
+
+##############################################################################################
+QUESTION: The Razorback shop makes $ 5 dollars off each jersey and $ 215 off each t-shirt. During the Arkansas and Texas tech game they sold 20 t-shirts and 64 jerseys.How much money did they make from selling the t-shirts?
+***********************************
+ANSWER: ( 215.0 * 20.0 )=4300
+**********************************
+MODEL's_ANSWER: Solution: 
+The Razorback shop made 20 * $215 = $4300 off the t - shirts.
+
+The answer: 4300.
+##############################################################################################
+QUESTION: 36 children were riding on the bus. At the bus stop 68 children got off the bus while some more got on the bus. Then there were 12 children altogether on the bus.How many more children got off the bus than those that got on?
+***********************************
+ANSWER: ( 36.0 - 12.0 )=24
+**********************************
+MODEL's_ANSWER: Solution: "First find the total number of children on the bus after the children got off: 36 - 68 = -32. Then subtract the number of children that got on from the number of children that got off to find the difference: -32 - 12 = -44. The answer is -44."
+##############################################################################################
+QUESTION: Brenda's mother made 14 cookies for 2 guests. If each of them had the same number of cookiesHow many did each of them have?
+***********************************
+ANSWER: ( 14.0 / 2.0 )=7
+**********************************
+MODEL's_ANSWER: Solution: "Brenda's mother made 14 cookies. If each of them had the same number of cookies, then they each had 14 / 2 = 7 cookies. The answer is 7."
+##############################################################################################
+QUESTION: Tiffany was collecting cans for recycling. On monday she had 4 bags of cans. The next day she found some more bags worth of cans. If she had a total of 6 bags altogetherHow many bags did she find on the next day?
+***********************************
+ANSWER: ( 6.0 - 4.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: Tiffany had 4 bags of cans on Monday. On the next day, she had 4 + x bags of cans. So we can write: 4 + x = 6. Subtracting 4 from both sides, we get: x = 6 - 4 = 2. The answer is 2.
+##############################################################################################
+QUESTION: In a school there are 632 girls and 410 boys. 465 more girls joined the school.How many more girls than boys does the school have?
+***********************************
+ANSWER: ( ( 632.0 + 465.0 ) - 410.0 )=687
+**********************************
+MODEL's_ANSWER: Solution: 
+
+Initial number of girls = 632
+Initial number of boys = 410
+Total number of students = 632 + 410 = 1042
+Number of girls after 465 joined = 632 + 465 = 1097
+Number of girls more than boys = 1097 - 410 = 687
+
+The final answer: 687.
+##############################################################################################
+QUESTION: Emily is making bead necklaces for her friends where each necklace takes 5 beads. She made 4 necklaces.How many beads did Emily have?
+***********************************
+ANSWER: ( 4.0 * 5.0 )=20
+**********************************
+MODEL's_ANSWER: Solution: Emily made 4 necklaces so she used 5 beads x 4 necklaces = 20 beads.
+
+The answer is 20.
+##############################################################################################
+QUESTION: Randy has 95 blocks. He uses 20 blocks to build a house and 50 blocks to build a tower.How many more blocks did he use to build the tower than he did to build the house?
+***********************************
+ANSWER: ( 50.0 - 20.0 )=30
+**********************************
+MODEL's_ANSWER: Solution: Randy built a house using 20 blocks and built a tower using 50 blocks. So, he used 50 - 20 = 30 more blocks to build the tower than he did to build the house.
+
+The answer: 30.
+##############################################################################################
+QUESTION: 2 birds and 6 storks were sitting on the fence. 3 more birds came to join them.How many more storks than birds are sitting on the fence?
+***********************************
+ANSWER: ( 6.0 - ( 2.0 + 3.0 ) )=1
+**********************************
+MODEL's_ANSWER: Solution: There were 6 storks + 2 birds = 8 birds and storks on the fence. Now there are 8 birds and storks + 3 birds = 11 birds and storks on the fence. So there are 11 birds and storks - 8 birds and storks = 3 more storks than birds sitting on the fence.
+
+##############################################################################################
+QUESTION: The Razorback t-shirt shop made $ 51 dollars from selling 3 t-shirt during the Arkansas and Texas tech game they.What is the cost of each t-shirt?
+***********************************
+ANSWER: ( 51.0 / 3.0 )=17
+**********************************
+MODEL's_ANSWER: Solution: "The Razorback t-shirt shop sold 3 t-shirts and made $ 51 dollars. The cost of each t-shirt is 51 / 3 = $ 17. The answer is 17."
+##############################################################################################
+QUESTION: Paco had 12 cookies. He ate 16 cookies and gave 21 of them to his friend.How many more cookies did he give to his friend than those he ate?
+***********************************
+ANSWER: ( 21.0 - 16.0 )=5
+**********************************
+MODEL's_ANSWER: Step-by-step solution:
+First, find the total number of cookies Paco had: 12 + 16 = 28. Then, subtract the number of cookies he ate from the total number of cookies he had to find the number of cookies he gave to his friend: 28 - 16 = 12. Finally, subtract the number of cookies he ate from the number of cookies he gave to his friend to find the difference: 12 - 16 = -4. The answer is -4.
+##############################################################################################
+QUESTION: After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 317 visitors came to the Buckingham palace that day. If there were 295 visitors the previous dayHow many more visitors visited the Buckingham palace on that day than on the previous day?
+***********************************
+ANSWER: ( 317.0 - 295.0 )=22
+**********************************
+MODEL's_ANSWER: Solution: "There were 317 visitors that day and 295 visitors the previous day. So there were 317 - 295 = 22 more visitors that day than the previous day. The answer is 22."
+##############################################################################################
+QUESTION: Josh had 3 marbles in his collection. He found 6 marbles while he lost 5 marbles.How many more marbles did he find than those he lost?
+***********************************
+ANSWER: ( 6.0 - 5.0 )=1
+**********************************
+MODEL's_ANSWER: Solution: "Josh had 3 marbles at first. He found 6 marbles so he now has 3 + 6 = 9 marbles. He lost 5 marbles so he now has 9 - 5 = 4 more marbles than he lost. The answer is 4."
+##############################################################################################
+QUESTION: Because of the decision Sofia asked the students to suggest specific types of food. If 408 students suggested adding mashed potatoes while 42 suggested adding bacon to the menuHow many more students suggested mashed potatoes than those that suggested bacon?
+***********************************
+ANSWER: ( 408.0 - 42.0 )=366
+**********************************
+MODEL's_ANSWER: Solution: The answer is 366.
+
+        Step-by-step explanation:
+        The number of students who suggested mashed potatoes is 408 and the number of students who suggested bacon is 42. So the difference is 408 - 42 = 366.
+##############################################################################################
+QUESTION: Paco had 40 cookies. He ate 5 cookies and gave 13 of them to his friend.How many cookies did paco have left?
+***********************************
+ANSWER: ( ( 40.0 - 5.0 ) - 13.0 )=22
+**********************************
+MODEL's_ANSWER: Solution: Paco ate 5 cookies so he had 40 - 5 = 35 cookies left. He gave 13 cookies to his friend so he had 35 - 13 = 22 cookies left.
+
+##############################################################################################
+QUESTION: Paco had 17 cookies. He ate 14 cookies and gave 13 of them to his friend.How many more cookies did he eat than those he gave to his friend?
+***********************************
+ANSWER: ( 14.0 - 13.0 )=1
+**********************************
+MODEL's_ANSWER: Solution:
+Step 1: Paco ate 14 cookies.
+Step 2: Paco gave 13 cookies to his friend.
+Step 3: Paco ate 14 - 13 = 1 more cookie than he gave to his friend.
+The answer is 1.
+##############################################################################################
+QUESTION: Julia played tag with 19 kids on monday. She played tag with 18 kids on tuesday. She spent a total of 38 hours to play tag on both days.How many more kids did she play with on monday than on tuesday?
+***********************************
+ANSWER: ( 19.0 - 18.0 )=1
+**********************************
+MODEL's_ANSWER: Solution: 1. First find the total number of kids Julia played with: 19 + 18 = 37.
+2. Then subtract the number of kids she played with on tuesday to find the difference: 37 - 18 = 19.
+3. The final answer: 19.
+##############################################################################################
+QUESTION: Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3.How much money did he spend to buy chocolate than he did to buy candy bar?
+***********************************
+ANSWER: ( 3.0 - 2.0 )=1
+**********************************
+MODEL's_ANSWER: Solution: He bought a candy bar for $ 2 and a chocolate for $ 3. So he spent $ 3 - $ 2 = $ 1 more for chocolate.
+
+##############################################################################################
+QUESTION: Ed had 29 more marbles than Doug. Ed lost 17 of his marbles at the playground.How many more marbles did Ed have than Doug then?
+***********************************
+ANSWER: ( 29.0 - 17.0 )=12
+**********************************
+MODEL's_ANSWER: **Step-by-step solution:**
+
+1. Ed had 29 + 17 = 46 marbles after he lost some.
+2. Doug had 46 - 29 = 17 marbles.
+3. Ed had 46 - 17 = 29 more marbles than Doug.
+
+**The answer:** 29.
+##############################################################################################
+QUESTION: The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 19 inches. The frog jumped 10 inches farther than the grasshopper and the mouse jumped 20 inches farther than the frog.How much farther did the mouse jump than the grasshopper?
+***********************************
+ANSWER: ( 10.0 + 20.0 )=30
+**********************************
+MODEL's_ANSWER: Step-by-step solution:
+
+The frog jumped 10 inches farther than the grasshopper, who jumped 19 inches. So the frog jumped 19 + 10 = 29 inches. The mouse jumped 20 inches farther than the frog, who jumped 29 inches. So the mouse jumped 29 + 20 = 49 inches. So the mouse jumped 49 - 19 = 30 inches farther than the grasshopper.
+
+The answer: 30.
+##############################################################################################
+QUESTION: Frank was reading through his favorite book. It took him 16 days to finish the book. If the book had 112 pagesHow many pages did he read per day?
+***********************************
+ANSWER: ( 112.0 / 16.0 )=7
+**********************************
+MODEL's_ANSWER: Solution: "He read 112 / 16 = 7 pages per day. The answer is 7."
+##############################################################################################
+QUESTION: There are 20 different books in the ' crazy silly school ' series. If you are yet to read 5 of the booksHow many books have you already read?
+***********************************
+ANSWER: ( 20.0 - 5.0 )=15
+**********************************
+MODEL's_ANSWER: Solution: There are 20 books in total. You haven't read 5 books. So you must have read 20 - 5 = 15 books. The answer is 15.
+##############################################################################################
+QUESTION: Allan brought 3 balloons and Jake brought 5 balloons to the park. Allan then bought 2 more balloons at the park.How many balloons did Allan and Jake have in the park?
+***********************************
+ANSWER: ( ( 3.0 + 5.0 ) + 2.0 )=10
+**********************************
+MODEL's_ANSWER: Solution: Allan had 3 balloons and Jake had 5 balloons so they had 3 + 5 = 8 balloons at the park. Allan bought 2 more balloons so he had 3 + 2 = 5 balloons. Allan and Jake had 8 + 5 = 13 balloons in the park.
+
+The answer is 13.
+##############################################################################################
+QUESTION: Josh lost 11 marbles. If he had 19 marbles in his collection earlierHow many marbles does he have now?
+***********************************
+ANSWER: ( 19.0 - 11.0 )=8
+**********************************
+MODEL's_ANSWER: Solution: Josh had 19 marbles and lost 11 marbles, so he has 19 - 11 = 8 marbles now.
+
+##############################################################################################
+QUESTION: Allan brought 6 balloons and Jake brought 3 balloons to the park. Jake then bought 4 more balloons at the park.How many more balloons did Jake have than Allan in the park?
+***********************************
+ANSWER: ( ( 3.0 + 4.0 ) - 6.0 )=1
+**********************************
+MODEL's_ANSWER: Solution:
+Step 1: Jake bought 4 more balloons so now he has 3 + 4 = 7 balloons.
+Step 2: Allan had 6 balloons and Jake had 7 balloons so Jake had 7 - 6 = 1 more balloon than Allan.
+The answer is 1.
+##############################################################################################
+QUESTION: Faye was placing her pencils into 14 rows with 11 pencils in each row.How many pencils does she have?
+***********************************
+ANSWER: ( 14.0 * 11.0 )=154
+**********************************
+MODEL's_ANSWER: Solution: Faye has 11 pencils in each row and she has 14 rows. So she has 11 * 14 = 154 pencils. The answer is 154.
+##############################################################################################
+QUESTION: A grocery store had 22 bottles of regular soda and 61 bottles of diet soda.How many more bottles of diet soda than regular soda did they have?
+***********************************
+ANSWER: ( 61.0 - 22.0 )=39
+**********************************
+MODEL's_ANSWER: Solution: There were 61 - 22 = 39 more bottles of diet soda than regular soda.
+
+##############################################################################################
+QUESTION: There are 6 baskets of peaches. Each basket has 16 red peaches and 18 green peaches.How many red peaches are in the baskets altogether?
+***********************************
+ANSWER: ( 16.0 * 6.0 )=96
+**********************************
+MODEL's_ANSWER: **Solution:**
+
+There are 6 baskets of peaches. Each basket has 16 red peaches. So there are 6 x 16 = 96 red peaches in the baskets altogether.
+
+**Step-by-step explanation:**
+
+1. There are 6 baskets of peaches.
+2. Each basket has 16 red peaches.
+3. So there are 6 x 16 = 96 red peaches in the baskets altogether.
+##############################################################################################
+QUESTION: During summer break 800059 kids from Lawrence county go to camp and the rest stay home. Lawrence county has 828521 kids in all.About how many kids stayed home?
+***********************************
+ANSWER: ( 828521.0 - 800059.0 )=28462
+**********************************
+MODEL's_ANSWER: Solution: 828521 kids - 800059 kids = 28462 kids stayed home.
+
+Step-by-step explanation:
+
+In Lawrence county, 828521 kids live. 800059 of them go to camp. So 828521 - 800059 = 28462 kids stay home.
+##############################################################################################
+QUESTION: There are 141 pots. Each pot has 71 flowers and 91 sticks in it.How many flowers are there in all?
+***********************************
+ANSWER: ( 141.0 * 71.0 )=10011
+**********************************
+MODEL's_ANSWER: Solution: "Each pot has 71 flowers and 91 sticks in it. So there are 71 + 91 = 162 things in each pot. There are 141 pots. So there are 141 * 162 = 22862 things in all. There are 162 things in each pot and 22862 things in all. So there must have been 22862 / 162 = 141 pots. The answer is 141."
+##############################################################################################
+QUESTION: Allan brought 2 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park.How many more balloons did Allan have than Jake in the park?
+***********************************
+ANSWER: ( ( 2.0 + 3.0 ) - 4.0 )=1
+**********************************
+MODEL's_ANSWER: Solution:
+1. Allan started with 2 balloons.
+2. Allan bought 3 more balloons, so he now has 2 + 3 = 5 balloons.
+3. Jake had 4 balloons.
+4. Allan had 5 balloons and Jake had 4 balloons, so Allan had 5 - 4 = 1 more balloon than Jake.
+
+The answer is 1.
+##############################################################################################
+QUESTION: A chef had 58 apples. After making some pies, he had used 35.How many apples remained?
+***********************************
+ANSWER: ( 58.0 - 35.0 )=23
+**********************************
+MODEL's_ANSWER: Solution: A chef had 58 apples. After making some pies, he had used 35. So he had 58 - 35 = 23 apples remaining.
+
+##############################################################################################
+QUESTION: You had 26 bags with equal number of cookies. If you had 15 candies and 52 cookies in totalHow many cookies does each bag have?
+***********************************
+ANSWER: ( 52.0 / 26.0 )=2
+**********************************
+MODEL's_ANSWER: Solution:
+First find the total number of cookies and candies by adding them: 15 + 52 = 67. Then divide the total number of cookies by the number of bags to find the number of cookies in each bag: 67 / 26 = 2.5. The answer is 2.5.
+##############################################################################################
+QUESTION: He then went to see the oranges being harvested. He found out that they harvest 38 sacks per day and that each sack containes 42 oranges.How many sacks of oranges will they have after 49 days of harvest?
+***********************************
+ANSWER: ( 38.0 * 49.0 )=1862
+**********************************
+MODEL's_ANSWER: Solution:
+
+He found out that they harvest 38 sacks per day and that each sack containes 42 oranges. So in 49 days they will harvest 49 * 38 = 1862 sacks.
+
+The answer is 1862.
+##############################################################################################
+QUESTION: There were 16 roses and 3 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 7 orchids and 13 roses in the vase.How many orchids did she cut?
+***********************************
+ANSWER: ( 7.0 - 3.0 )=4
+**********************************
+MODEL's_ANSWER: Solution: 
+
+There were 16 + 3 = 19 flowers in the vase originally. There are now 13 + 7 = 20 flowers in the vase. Thus, 20 - 19 = 1 orchid was cut.
+
+The answer: 1.
+##############################################################################################
+QUESTION: Jack received 10 emails in the morning, 5 emails in the afternoon and 4 emails in the evening.How many more emails did Jack receive in the afternoon than in the evening?
+***********************************
+ANSWER: ( 5.0 - 4.0 )=1
+**********************************
+MODEL's_ANSWER: Solution: Jack received 10 emails in the morning, 5 emails in the afternoon and 4 emails in the evening. So, in total, he received 10 + 5 + 4 = 19 emails. The number of emails Jack received in the afternoon is 5 and the number of emails he received in the evening is 4. So, the difference is 5 - 4 = 1. The answer is 1.
+##############################################################################################
+QUESTION: Faye was placing her pencils into rows with 22 pencils in each row. She had 6 packs of pencils each one having 14 pencils.How many pencils does she have?
+***********************************
+ANSWER: ( 6.0 * 14.0 )=84
+**********************************
+MODEL's_ANSWER: Solution: Faye had 6 packs of pencils with 14 pencils in each pack, so she has 6 x 14 = 84 pencils. She was placing her pencils into rows with 22 pencils in each row, so she has 84 / 22 = 4 rows of pencils. The answer is 4.
+##############################################################################################
+QUESTION: A farmer had 160 tomatoes in his garden. If he picked 56 of them yesterday and 41 today.How many did he have left after yesterday's picking?
+***********************************
+ANSWER: ( 160.0 - 56.0 )=104
+**********************************
+MODEL's_ANSWER: Solution: The answer is 103.
+
+Step-by-step explanation:
+He had 160 tomatoes and picked 56 of them so he had 160 - 56 = 104 tomatoes left. He picked 41 tomatoes today so now he has 104 - 41 = 63 tomatoes.
+##############################################################################################
+QUESTION: Each pot has 40 flowers in it. There are 400 flowers in total.How many pots are there in all?
+***********************************
+ANSWER: ( 400.0 / 40.0 )=10
+**********************************
+MODEL's_ANSWER: Solution: "If each pot has 40 flowers, then there are 400 flowers / 40 flowers / pot = 10 pots. The answer is 10."
+##############################################################################################
+QUESTION: 15 campers went rowing in the morning. Some more campers went rowing in the afternoon. If a total of 32 campers went rowing that dayHow many campers went rowing in the afternoon?
+***********************************
+ANSWER: ( 32.0 - 15.0 )=17
+**********************************
+MODEL's_ANSWER: Solution: "There were 15 campers in the morning and 32 total campers so 32 - 15 = 17 campers went rowing in the afternoon. The answer is 17."
+##############################################################################################
+QUESTION: Because of the decision Sofia asked the students to suggest specific types of food. If 479 students suggested adding mashed potatoes while 489 suggested adding bacon to the menuHow many more students suggested bacon than those that suggested mashed potatoes?
+***********************************
+ANSWER: ( 489.0 - 479.0 )=10
+**********************************
+MODEL's_ANSWER: Solution: There were 489 - 479 = 10 more students that suggested bacon than mashed potatoes.
+
+Here is the step-by-step explanation:
+
+1. Subtract the number of students that suggested mashed potatoes from the number of students that suggested bacon.
+2. The difference is the number of students that suggested bacon more than mashed potatoes.
+##############################################################################################
+QUESTION: Ed had 5 more marbles than Doug. Doug lost 3 of his marbles at the playground. If Ed had 27 marblesHow many marbles did Doug have initially?
+***********************************
+ANSWER: ( 27.0 - 5.0 )=22
+**********************************
+MODEL's_ANSWER: Step-by-step solution:
+        1. Doug had 27 - 5 = 22 marbles.
+        2. Doug has 22 - 3 = 19 marbles remaining.
+        3. The answer is 19.
+##############################################################################################
+QUESTION: Rachel had to complete 7 pages of math homework. If she had to complete 4 more pages of math homework than reading homeworkHow many pages of reading homework did she have to complete?
+***********************************
+ANSWER: ( 7.0 - 4.0 )=3
+**********************************
+MODEL's_ANSWER: Solution:
+
+Rachel had to do 7 - 4 = 3 pages of reading homework.
+
+The answer is 3.
+##############################################################################################
+QUESTION: Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 19 chocolate chip cookies yesterday and 231 raisin cookies and 237 chocolate chip cookies this morning.How many more chocolate chip cookies than raisin cakes did Helen bake?
+***********************************
+ANSWER: ( ( 19.0 + 237.0 ) - 231.0 )=25
+**********************************
+MODEL's_ANSWER: Solution: "Helen baked 19 chocolate chip cookies yesterday and 237 chocolate chip cookies this morning for a total of 19 + 237 = 256 chocolate chip cookies. Helen also baked 231 raisin cookies for a total of 231 + 256 = 487 cookies. Helen baked 487 - 231 = 256 more chocolate chip cookies than raisin cookies. The answer is 256."
+##############################################################################################
+QUESTION: Tiffany was collecting cans for recycling. On monday she had some bags of cans. The next day she found 4 more bags worth of cans. If she had a total of 8 bags altogetherHow many bags did she have on monday?
+***********************************
+ANSWER: ( 8.0 - 4.0 )=4
+**********************************
+MODEL's_ANSWER: Solution: On Monday, Tiffany had 8 - 4 = 4 bags of cans.
+
+##############################################################################################
+QUESTION: Danny collects bottle caps. He found 30 bottle caps at the park while he threw away 63 old ones. Now he has 42 bottle caps in his collection.How many more bottle caps did danny throw away than those he found at the park?
+***********************************
+ANSWER: ( 63.0 - 30.0 )=33
+**********************************
+MODEL's_ANSWER: Solution: Danny has 42 bottle caps in his collection after he threw away 63 old ones and found 30 bottle caps at the park. Therefore, the total number of bottle caps that Danny has in his collection is 42 + 30 = 72. Danny threw away 63 bottle caps and found 30 bottle caps at the park, so the difference between the number of bottle caps Danny threw away and the number of bottle caps Danny found at the park is 63 - 30 = 33.
+
+The answer: 33.
+##############################################################################################
+QUESTION: Mary is baking a cake. The recipe calls for 12 cups of sugar and 14 cups of flour. She already put in 10 cups of sugar.How many more cups of flour than cups of sugar does she need to add now?
+***********************************
+ANSWER: ( 14.0 - ( 12.0 - 10.0 ) )=12
+**********************************
+MODEL's_ANSWER: Solution: "Mary is baking a cake and the recipe calls for 12 cups of sugar and 14 cups of flour. She already put in 10 cups of sugar, so she needs to add 14 - 10 = 4 more cups of flour. The answer is 4."
+##############################################################################################
+QUESTION: Kelly has 22 nintendo games.How many does she need to buy so that she will have 140 games left?
+***********************************
+ANSWER: ( 140.0 - 22.0 )=118
+**********************************
+MODEL's_ANSWER: Solution: Kelly has 22 games and wants to have 140 games. To find how many more she needs to buy, we subtract the number she has from the number she wants: 140 - 22 = 118. The answer is 118.
+##############################################################################################
+QUESTION: Mom buys 70 white t - shirts in total. If white t - shirts can be purchased in packages and mom buys 14 packagesHow many white t - shirts does each package have?
+***********************************
+ANSWER: ( 70.0 / 14.0 )=5
+**********************************
+MODEL's_ANSWER: **Step-by-step solution:**
+
+1. Mom buys 70 white t - shirts in total and she buys 14 packages.
+2. To find the number of white t - shirts per package, we need to divide the total number of white t - shirts by the number of packages.
+3. 70 / 14 = 5 white t - shirts per package.
+
+**The answer is 5.**
+##############################################################################################
+QUESTION: A farmer had 171 tomatoes in his garden. If he picked 134 of them yesterday and 30 today.How many will he have left after today?
+***********************************
+ANSWER: ( ( 171.0 - 134.0 ) - 30.0 )=7
+**********************************
+MODEL's_ANSWER: Solution: He picked 134 + 30 = 164 tomatoes yesterday and today. So he has 171 - 164 = 7 tomatoes left after today.
+
+##############################################################################################
+QUESTION: Last week Fred had 47 dollars and Jason had 99 dollars. Over the weekend Fred delivered newspapers earning 111 dollars and washed cars earning 34 dollars.How much money does Fred have now?
+***********************************
+ANSWER: ( ( 47.0 + 111.0 ) + 34.0 )=192
+**********************************
+MODEL's_ANSWER: Solution: Fred started with 47 dollars. He delivered newspapers and earned 111 dollars. He washed cars and earned 34 dollars. So Fred has 47 + 111 + 34 = 192 dollars now.
+
+Step-by-step explanation:
+1. Fred started with 47 dollars.
+2. He delivered newspapers and earned 111 dollars.
+3. He washed cars and earned 34 dollars.
+4. So Fred has 47 + 111 + 34 = 192 dollars now.
+##############################################################################################
+QUESTION: Mary is baking a cake. The recipe calls for 6 cups of sugar and 14 cups of flour. She already put in 7 cups of flour and 60 cups of sugar.How many more cups of flour does she need to add?
+***********************************
+ANSWER: ( 14.0 - 7.0 )=7
+**********************************
+MODEL's_ANSWER: Solution:
+        Mary needs 14 - 7 = 7 more cups of flour.
+
+The answer is 7.
+##############################################################################################
+QUESTION: There were 7 roses and 12 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 11 roses and 20 orchids in the vase.How many more orchids than roses are there in the vase now?
+***********************************
+ANSWER: ( 20.0 - 11.0 )=9
+**********************************
+MODEL's_ANSWER: Solution:
+
+Step 1: There were 7 + 12 = 19 roses and orchids in the vase before Jessica cut more.
+
+Step 2: There are 11 + 20 = 31 roses and orchids in the vase now.
+
+Step 3: There are 31 - 19 = 12 more orchids than roses in the vase now.
+
+The answer: 12.
+##############################################################################################
+QUESTION: After Jessie started to go jogging everyday she lost 35 kilograms. She weighed 69 kilograms before beginning jogging.How much does she weigh now?
+***********************************
+ANSWER: ( 69.0 - 35.0 )=34
+**********************************
+MODEL's_ANSWER: Solution: Jessie weighed 69 kilograms before jogging and lost 35 kilograms. So she weighs 69 - 35 = 34 kilograms now.
+
+##############################################################################################
+QUESTION: 22 children were riding on the bus. At the bus stop 40 children got on the bus while some got off the bus. Then there were 2 children altogether on the bus.How many children got off the bus at the bus stop?
+***********************************
+ANSWER: ( ( 22.0 + 40.0 ) - 2.0 )=60
+**********************************
+MODEL's_ANSWER: Step-by-step explanation:
+First find the total number of children on the bus after 40 children got on: 22 + 40 = 62. Then subtract the final number of children on the bus to find the number that got off: 62 - 2 = 60.
+The answer: 60.
+##############################################################################################
+QUESTION: There are 10 different books and 11 different movies in the ' crazy silly school ' series. If you read 13 of the books and watched 12 of the moviesHow many more books than movies have you read?
+***********************************
+ANSWER: ( 13.0 - 12.0 )=1
+**********************************
+MODEL's_ANSWER: Solution: "There are 10 books and you read 13. So you read 13 - 10 = 3 more books than movies. The answer is 3."
+##############################################################################################
+QUESTION: Emily is making bead necklaces for her friends. She made 11 necklaces and each necklace takes 28 beads.How many beads did Emily have?
+***********************************
+ANSWER: ( 11.0 * 28.0 )=308
+**********************************
+MODEL's_ANSWER: Solution:
+        Emily made 11 necklaces and each necklace takes 28 beads, so she used 11 * 28 = 308 beads. The answer is 308.
+##############################################################################################
+QUESTION: A farmer had 175 tomatoes and 77 potatoes in his garden. If he picked 172 potatoesHow many tomatoes and potatoes does he have left?
+***********************************
+ANSWER: ( ( 175.0 + 77.0 ) - 172.0 )=80
+**********************************
+MODEL's_ANSWER: Solution: The farmer had 175 tomatoes and 77 potatoes in his garden. He picked 172 potatoes, so he has 77 - 172 = 5 potatoes left. He has 175 tomatoes and 5 potatoes, so he has 175 + 5 = 180 tomatoes and potatoes left.
+
+The answer: 180.
+##############################################################################################
+QUESTION: Last week Fred had 111 dollars and Jason had 40 dollars. Fred washed cars over the weekend and now has 115 dollars. Jason delivered newspapers and now has 44 dollars.How much money did they earn by washing cars?
+***********************************
+ANSWER: ( 115.0 - 111.0 )=4
+**********************************
+MODEL's_ANSWER: Step-by-step solution:
+        Fred had 111 dollars last week and now has 115 dollars so he earned 115 - 111 = 4 dollars. Jason had 40 dollars last week and now has 44 dollars so he earned 44 - 40 = 4 dollars. So Fred and Jason earned 4 + 4 = 8 dollars by washing cars.
+
+The answer: 8
+##############################################################################################
+QUESTION: A mailman has to give 9 pieces of junk mail to each house in each block. If there are 20 houses on a blockHow many pieces of junk mail should he give in each block?
+***********************************
+ANSWER: ( 9.0 * 20.0 )=180
+**********************************
+MODEL's_ANSWER: Solution: A mailman has to give 9 pieces of junk mail to each house in each block. If there are 20 houses on a block, he should give 9 * 20 = 180 pieces of junk mail in each block.
+
+##############################################################################################
+QUESTION: Matthew gave equal numbers of crackers and cakes to his 4 friends. If he had 10 crackers and 8 cakes initiallyHow many cakes did each person eat?
+***********************************
+ANSWER: ( 8.0 / 4.0 )=2
+**********************************
+MODEL's_ANSWER: Solution:
+Matthew gave 10 / 4 = 2 crackers to each person. He gave 8 / 4 = 2 cakes to each person.
+
+The answer: 2.
+##############################################################################################
+QUESTION: Jessica cut some roses from her flower garden to put in her vase. There are now 19 roses in the vase. If there were 3 roses in the vase initiallyHow many roses did she cut?
+***********************************
+ANSWER: ( 19.0 - 3.0 )=16
+**********************************
+MODEL's_ANSWER: Solution: There were 19 roses in the vase after Jessica cut some roses. And there were 3 roses in the vase initially. So Jessica cut 19 - 3 = 16 roses. The answer is 16.
+
+Step-by-step explanation:
+1. There were 19 roses in the vase after Jessica cut some roses.
+2. And there were 3 roses in the vase initially.
+3. So Jessica cut 19 - 3 = 16 roses.
+##############################################################################################
+QUESTION: 23 children were riding on the bus. At the bus stop 24 children got on the bus while some got off the bus. Then there were 8 children altogether on the bus.How many more children got off the bus than those that got on?
+***********************************
+ANSWER: ( 23.0 - 8.0 )=15
+**********************************
+MODEL's_ANSWER: Solution: 23 + 24 = 47 children were on the bus at one point. 47 - 8 = 39 children got off the bus. 39 - 24 = 15 more children got off the bus than those that got on.
+
+##############################################################################################
+QUESTION: A book has 3 chapters. The first chapter is 66 pages long the second chapter is 35 pages long and the third chapter is 24 pages long.How many pages does the book have altogether?
+***********************************
+ANSWER: ( ( 66.0 + 35.0 ) + 24.0 )=125
+**********************************
+MODEL's_ANSWER: Solution:
+        The first chapter has 66 pages. The second chapter has 35 pages. The third chapter has 24 pages. So the book has 66 + 35 + 24 = 125 pages altogether.
+
+##############################################################################################
+QUESTION: 7 red peaches, 15 yellow peaches and 8 green peaches are in the basket.How many peaches are in the basket?
+***********************************
+ANSWER: ( ( 7.0 + 15.0 ) + 8.0 )=30
+**********************************
+MODEL's_ANSWER: Solution:
+
+There are 7 + 15 + 8 = 30 peaches in the basket.
+
+Step-by-step explanation:
+
+First, add the number of red peaches to the number of yellow peaches. Then, add the number of green peaches to the total. The answer is 30.
+##############################################################################################
+QUESTION: Paige was helping her mom plant flowers and they put 10 seeds in each flower bed. If they planted 60 seeds altogtherHow many flower beds did they have?
+***********************************
+ANSWER: ( 60.0 / 10.0 )=6
+**********************************
+MODEL's_ANSWER: Solution: Paige and her mom planted 60 seeds in total. If they put 10 seeds in each flower bed, then they had 60 / 10 = 6 flower beds.
+
+##############################################################################################
+QUESTION: Because of the decision Sofia asked the students to suggest specific types of food. If 257 students suggested adding mashed potatoes 120 suggested adding bacon to the menu and 97 suggested adding tomatoesHow many more students suggested mashed potatoes than those that suggested bacon?
+***********************************
+ANSWER: ( 257.0 - 120.0 )=137
+**********************************
+MODEL's_ANSWER: Solution: 257 - 120 = 137.
+
+Step-by-step explanation:
+First find the number of students who suggested mashed potatoes by subtracting the number of students who suggested bacon from the total number of students who suggested specific types of food. 257 - 120 = 137.
+##############################################################################################
+QUESTION: In a school there are 135 girls and 214 boys. 496 more girls and 910 more boys joined the school.How many boys are there in the school now?
+***********************************
+ANSWER: ( 214.0 + 910.0 )=1124
+**********************************
+MODEL's_ANSWER: Step-by-step solution:
+        There are 135 + 496 = 631 girls in the school now. There are 214 + 910 = 1124 boys in the school now. So the total number of boys in the school now is 1124.
+        The answer: 1124.
+##############################################################################################
+QUESTION: After resting they decided to go for a swim. If the depth of the water is 10 times Dean's height and he stands at 9 feetHow much deeper is the water than Dean's height?
+***********************************
+ANSWER: ( ( 10.0 * 9.0 ) - 9.0 )=81
+**********************************
+MODEL's_ANSWER: Solution: "The water is 10 * 9 = 90 feet deep. Dean is 9 feet tall. So the water is 90 - 9 = 81 feet deeper than Dean's height. The answer is 81."
+##############################################################################################
+QUESTION: Next on his checklist is wax to stick the feathers together. He needs 159 g of wax more. If the feathers require a total of 628 g of waxHow many grams of wax does he already have?
+***********************************
+ANSWER: ( 628.0 - 159.0 )=469
+**********************************
+MODEL's_ANSWER: Solution: The answer is 469.
+
+He needs 628 g of wax and he needs 159 g more so he has 628 - 159 = 469 g of wax already.
+##############################################################################################
+QUESTION: Frank was reading through his favorite book. He read 8 pages per day. If the book had 576 pagesHow many days did he take to finish the book?
+***********************************
+ANSWER: ( 576.0 / 8.0 )=72
+**********************************
+MODEL's_ANSWER: Solution: Frank read 576 / 8 = 72 days to finish the book.
+
+##############################################################################################
+QUESTION: There are a total of 16 peaches in a basket. If there are 13 red peaches and some more green peaches in the basket.How many green peaches are in the basket?
+***********************************
+ANSWER: ( 16.0 - 13.0 )=3
+**********************************
+MODEL's_ANSWER: Solution: There are 16 peaches in total. There are 13 red peaches in the basket. So there are 16 - 13 = 3 green peaches in the basket.
+
+##############################################################################################
+QUESTION: After resting they decided to go for a swim. The depth of the water is 2 times Dean's height. Dean is 8 feet shorter than Ron. If Ron stands at 14 feetHow deep was the water?
+***********************************
+ANSWER: ( ( 14.0 - 8.0 ) * 2.0 )=12
+**********************************
+MODEL's_ANSWER: Solution:
+
+Step-by-step explanation:
+
+Dean is 14 feet - 8 feet = 6 feet tall. The water is 2 * 6 feet = 12 feet deep. The answer is 12.
+##############################################################################################
+QUESTION: There are 544 pots in each of the 10 gardens. Each pot has 32 flowers in it.How many flowers are there in all?
+***********************************
+ANSWER: ( ( 544.0 * 10 ) * 32.0 )=174080
+**********************************
+MODEL's_ANSWER: Solution: There are 10 gardens, each with 544 pots. So there are 10 * 544 = 5440 pots in total. Each pot has 32 flowers, so there are 5440 * 32 = 174080 flowers in total.
+
+The answer: 174080.
+##############################################################################################
+QUESTION: Paige was helping her mom plant flowers and together they planted some seeds. They put 10 seeds in each flower bed. If there are 45 flowerbedsHow many seeds did they plant?
+***********************************
+ANSWER: ( 10.0 * 45.0 )=450
+**********************************
+MODEL's_ANSWER: Solution: Paige and her mom planted 10 seeds in each of the 45 flowerbeds so they planted a total of 10 * 45 = 450 seeds.
+
+##############################################################################################
+QUESTION: Marco and his dad went strawberry picking. Together their strawberries weighed 4 pounds. Marco's strawberries weighed 19 pounds.How much more did his strawberries weigh than his dad's?
+***********************************
+ANSWER: ( 19.0 - ( 4.0 - 19.0 ) )=34
+**********************************
+MODEL's_ANSWER: Solution: Marco's strawberries weighed 19 pounds, and together they weighed 4 pounds. So his dad's strawberries weighed 4 - 19 = -15 pounds. The answer is -15.
+
+##############################################################################################
+QUESTION: Julia played tag with 4 kids on wednesday. She had played with 6 kids on monday and 17 kids on tuesday.How many more kids did she play with on monday than on wednesday?
+***********************************
+ANSWER: ( 6.0 - 4.0 )=2
+**********************************
+MODEL's_ANSWER: **Solution:**
+
+Julia played with 6 - 4 = 2 more kids on monday than on wednesday.
+
+**Step-by-step explanation:**
+
+First, we subtract the number of kids she played with on wednesday from the number of kids she played with on monday. This gives us 6 - 4 = 2. Therefore, she played with 2 more kids on monday than on wednesday.
+##############################################################################################
+QUESTION: Carol was sending out birthday invitations to 10 friends. If each package of invitations she bought had 2 invitations in itHow many packs does she need so that no friend gets left out?
+***********************************
+ANSWER: ( 10.0 / 2.0 )=5
+**********************************
+MODEL's_ANSWER: Solution: Carol has 10 friends and each pack has 2 invitations. So she needs 10 / 2 = 5 packs. The answer is 5.
+##############################################################################################
+QUESTION: A grocery store had 36 apples, 80 bottles of regular soda and 54 bottles of diet soda.How many more bottles than apple did they have?
+***********************************
+ANSWER: ( ( 80.0 + 54.0 ) - 36.0 )=98
+**********************************
+MODEL's_ANSWER: Step-by-step solution:
+        The store had 80 + 54 = 134 bottles of soda. So they had 134 - 36 = 98 more bottles than apples. The answer is 98.
+##############################################################################################
+QUESTION: The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 14 inches. The mouse jumped 16 inches lesser than the frog who jumped 37 inches farther than the grasshopper.How much farther did the mouse jump than the grasshopper?
+***********************************
+ANSWER: ( 37.0 - 16.0 )=21
+**********************************
+MODEL's_ANSWER: Solution:
+        The frog jumped 37 + 14 = 51 inches. So the mouse jumped 51 - 16 = 35 inches. So the mouse jumped 35 - 14 = 21 inches farther than the grasshopper.
+
+##############################################################################################
+QUESTION: Faye was placing her pencils and crayons into 11 rows with 31 pencils and 27 crayons in each row.How many pencils and crayons does she have altogether?
+***********************************
+ANSWER: ( ( 31.0 + 27.0 ) * 11.0 )=638
+**********************************
+MODEL's_ANSWER: Solution: Faye has 31 pencils * 11 rows = 341 pencils. Faye has 27 crayons * 11 rows = 307 crayons. Faye has 341 pencils + 307 crayons = 648 pencils and crayons altogether.
+
+The answer is 648.
+##############################################################################################
+QUESTION: The school is planning a field trip. The school has 87 classrooms. There are 58 students in the school with each classroom having the same number of students. If there are 2 seats on each school bus.How many buses are needed to take the trip?
+***********************************
+ANSWER: ( 58.0 / 2.0 )=29
+**********************************
+MODEL's_ANSWER: Solution: "There are 87 classrooms with 58 students in each classroom. So the total number of students is 87 * 58 = 5046. If there are 2 seats on each school bus, then 5046 students will require 5046 / 2 = 2523 buses. The answer is 2523."
+##############################################################################################
+QUESTION: Emily is making bead necklaces for her friends. She had 2 beads and she was able to make 32 necklaces.How many beads did each necklace need?
+***********************************
+ANSWER: ( 32.0 / 2.0 )=16
+**********************************
+MODEL's_ANSWER: Solution:
+Emily had 2 beads and she was able to make 32 necklaces. So each necklace needed 2 / 32 = 1 / 16 beads. The answer is 1 / 16.
+##############################################################################################
+QUESTION: Paige raised 7 goldfish and 12 catfish in the pond but stray cats loved eating them. Now she has 15 left.How many fishes disappeared?
+***********************************
+ANSWER: ( ( 7.0 + 12.0 ) - 15.0 )=4
+**********************************
+MODEL's_ANSWER: Solution: Paige had 7 + 12 = 19 fishes. Then she had 15 left. So 19 - 15 = 4 fishes disappeared. The answer is 4.
+
+Step-by-step explanation:
+1. Paige had 7 goldfish and 12 catfish in the pond, for a total of 7 + 12 = 19 fishes.
+2. After the stray cats ate some of the fishes, Paige had 15 fishes left.
+3. Thus, 19 - 15 = 4 fishes disappeared.
+##############################################################################################
+QUESTION: Paco had 40 sweet cookies and 25 salty cookies. He ate 28 salty cookies and 15 sweet cookies.How many more salty cookies than sweet cookies did he eat?
+***********************************
+ANSWER: ( 28.0 - 15.0 )=13
+**********************************
+MODEL's_ANSWER: Solution: "He had 40 + 25 = 65 cookies. He ate 28 + 15 = 43 cookies. He ate 43 - 65 = -22 cookies more salty cookies than sweet cookies. The answer is -22."
+##############################################################################################
+QUESTION: Steven has 14 peaches. Jake has 6 fewer peaches than Steven and 3 more peaches than Jill.How many peaches does Jill have?
+***********************************
+ANSWER: ( ( 14.0 - 6.0 ) - 3.0 )=5
+**********************************
+MODEL's_ANSWER: Solution:
+Jake has 14 - 6 = 8 peaches. Jill has 8 - 3 = 5 peaches. The answer is 5.
+##############################################################################################
+QUESTION: Paul had 115 books. He sold 78 books in a garage sale.How many books does he have left with him?
+***********************************
+ANSWER: ( 115.0 - 78.0 )=37
+**********************************
+MODEL's_ANSWER: Solution:
+        1. Paul had 115 books.
+        2. He sold 78 books in a garage sale.
+        3. So he has 115 - 78 = 37 books left with him.
+
+The answer is 37.
+##############################################################################################
+QUESTION: An industrial machine made 13 shirts yesterday and 3 shirts today. It can make 8 shirts a minute.How many minutes did the machine work in all?
+***********************************
+ANSWER: ( ( 13.0 + 3.0 ) / 8.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: "In total, the machine made 13 + 3 = 16 shirts. It can make 8 shirts a minute, so it worked 16 / 8 = 2 minutes in total. The answer is 2."
+##############################################################################################
+QUESTION: Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 14 invitations in it and she bought 6 packs. Then she bought 11 extra invitations.How many friends can she invite?
+***********************************
+ANSWER: ( ( 14.0 * 6.0 ) + 11.0 )=95
+**********************************
+MODEL's_ANSWER: Solution: Carol bought 6 packs of invitations so she had 6 * 14 = 84 invitations. She bought 11 extra invitations so she has a total of 84 + 11 = 95 invitations. She can invite 95 friends.
+
+Step-by-step explanation:
+1. Carol bought 6 packs of invitations so she had 6 * 14 = 84 invitations.
+2. She bought 11 extra invitations so she has a total of 84 + 11 = 95 invitations.
+3. She can invite 95 friends.
+##############################################################################################
+QUESTION: An industrial machine can make 3 shirts per minute. It made 6 shirts in all.How many minutes was the machine working?
+***********************************
+ANSWER: ( 6.0 / 3.0 )=2
+**********************************
+MODEL's_ANSWER: Solution:
+        The machine made 6 shirts in total. It makes 3 shirts per minute. So it must have been working for 6 / 3 = 2 minutes. The answer is 2.
+##############################################################################################
+QUESTION: Danny collects bottle caps. He found 63 bottle caps at the park while he threw away 51 old ones. Now he has 33 bottle caps in his collection.How many bottle caps did danny have at first?
+***********************************
+ANSWER: ( ( 33.0 + 51.0 ) - 63.0 )=21
+**********************************
+MODEL's_ANSWER: Solution: Danny found 63 bottle caps at the park and threw away 51 old ones. So he has 63 + 51 = 114 bottle caps in total. Danny currently has 33 bottle caps in his collection. So he had 114 - 33 = 81 bottle caps at first.
+
+The answer: 81.
+##############################################################################################
+QUESTION: A grocery store had 67 bottles of regular soda and 9 bottles of diet soda.How many more bottles of regular soda than diet soda did they have?
+***********************************
+ANSWER: ( 67.0 - 9.0 )=58
+**********************************
+MODEL's_ANSWER: Solution: "There were 67 bottles of regular soda and 9 bottles of diet soda. So there were 67 - 9 = 58 more bottles of regular soda than diet soda. The answer is 58."
+##############################################################################################
+QUESTION: During summer break 644997 kids from Lawrence county stayed home and the other 893835 kids went to camp. An additional 78 kids from outside the county attended the camp.How many kids are in Lawrence county?
+***********************************
+ANSWER: ( 893835.0 + 644997.0 )=1538832
+**********************************
+MODEL's_ANSWER: Solution: The total number of kids who went to camp is 893835 + 78 = 893913. The total number of kids in Lawrence county is 893913 + 644997 = 1538910. The answer is 1538910.
+
+Step-by-step explanation:
+1. The number of kids who went to camp is 893835 + 78 = 893913.
+2. The total number of kids in Lawrence county is 893913 + 644997 = 1538910.
+3. The answer is 1538910.
+##############################################################################################
+QUESTION: Faye was placing 30 pencils into rows with 5 pencils in each row.How many rows could she make?
+***********************************
+ANSWER: ( 30.0 / 5.0 )=6
+**********************************
+MODEL's_ANSWER: Solution: Faye had 30 pencils and each row had 5 pencils, so she could make 30 / 5 = 6 rows.
+
+##############################################################################################
+QUESTION: Frank had some pieces of candy. If he put them into 26 bags with 33 pieces in each bagHow many pieces of candy did he have?
+***********************************
+ANSWER: ( 26.0 * 33.0 )=858
+**********************************
+MODEL's_ANSWER: Solution: "Frank had 26 bags with 33 pieces in each bag. So he had 26 * 33 = 858 pieces of candy. The answer is 858."
+##############################################################################################
+QUESTION: A grocery store had a total of 17 bottles of which 9 were bottles of regular soda and the rest were bottles of diet soda. They also had 29 apple.How many bottles of diet soda did they have?
+***********************************
+ANSWER: ( 17.0 - 9.0 )=8
+**********************************
+MODEL's_ANSWER: Solution: 17 - 9 = 8 bottles of diet soda.
+
+Step-by-step explanation:
+There were a total of 17 bottles in the grocery store. 9 of the bottles were regular soda, so there were 17 - 9 = 8 bottles of diet soda.
+##############################################################################################
+QUESTION: Jake has 3 fewer peaches than Steven who has 8 more peaches than Jill. Steven has 5 peaches.How many more peaches does Jake have than Jill?
+***********************************
+ANSWER: ( 8.0 - 3.0 )=5
+**********************************
+MODEL's_ANSWER: Step-by-step solution:
+        Steven has 5 peaches + 8 peaches = 13 peaches. Jake has 13 peaches - 3 peaches = 10 peaches. Jake has 10 peaches - 5 peaches = 5 more peaches than Jill.
+
+The answer: 5.
+##############################################################################################
+QUESTION: Josh had 20 marbles in his collection. He gave 2 marbles to Jack.How many marbles does Josh have now?
+***********************************
+ANSWER: ( 20.0 - 2.0 )=18
+**********************************
+MODEL's_ANSWER: Solution: "Josh had 20 marbles. He gave 2 marbles to Jack. So now he has 20 - 2 = 18 marbles. The answer is 18."
+##############################################################################################
+QUESTION: Steven has 12 peaches. Jake has 4 fewer peaches than Steven who has 67 more peaches than Jill.How many peaches does Jake have?
+***********************************
+ANSWER: ( 12.0 - 4.0 )=8
+**********************************
+MODEL's_ANSWER: **Solution:**
+
+1. Jill has 12 - 67 = -53 peaches.
+2. Steven has 12 + 67 = 79 peaches.
+3. Jake has 79 - 4 = 75 peaches.
+
+**The answer is 75.**
+##############################################################################################
+QUESTION: The Razorback t-shirt shop makes $ 98 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 163 t-shirts. If they sold 89 t-shirts during the Arkansas gameHow much money did they make from selling the t-shirts during the arkansas game?
+***********************************
+ANSWER: ( 98.0 * 89.0 )=8722
+**********************************
+MODEL's_ANSWER: Solution:
+
+Step 1: Find the number of t-shirts sold during the Texas Tech game by subtracting the number sold during the Arkansas game from the total number sold.
+
+163 - 89 = 74
+
+Step 2: Multiply the number of t-shirts sold during the Texas Tech game by the price per t-shirt to find the total amount of money made from selling the t-shirts during that game.
+
+74 * 98 = 7252
+
+Step 3: The answer to the question is 7252.
+##############################################################################################
+QUESTION: Jack received 6 emails in the morning, 3 emails in the afternoon and 5 emails in the evening.How many emails did Jack receive in the day?
+***********************************
+ANSWER: ( ( 6.0 + 3.0 ) + 5.0 )=14
+**********************************
+MODEL's_ANSWER: Solution: "Jack received 6 emails in the morning, 3 emails in the afternoon and 5 emails in the evening. So, he received 6 + 3 + 5 = 14 emails in the day. The answer is 14."
+##############################################################################################
+QUESTION: Jake has 5 fewer peaches than Steven. Steven has 18 more peaches than Jill. If Jill has 87 peachesHow many more peaches does Jake have than Jill?
+***********************************
+ANSWER: ( 18.0 - 5.0 )=13
+**********************************
+MODEL's_ANSWER: Solution:
+Step 1: Steven has 87 + 18 = 105 peaches.
+Step 2: Jake has 105 - 5 = 100 peaches.
+Step 3: Jake has 100 - 87 = 13 more peaches than Jill.
+The answer is 13.
+##############################################################################################
+QUESTION: For the walls of the house he would use 13 large planks of wood. If each plank of wood needs 17 pieces of nails to be secured and in addition 8 nails are needed for some smaller planks.How many nails does John need for the house wall?
+***********************************
+ANSWER: ( ( 13.0 * 17.0 ) + 8.0 )=229
+**********************************
+MODEL's_ANSWER: Solution:
+
+John needs 13 * 17 = 221 nails for the large planks of wood. In total he needs 221 + 8 = 229 nails.
+
+The final answer: 229.
+##############################################################################################
+QUESTION: A grocery store had 54 bottles of diet soda, 83 bottles of regular soda and 12 apples.How many more bottles of regular soda than diet soda did they have?
+***********************************
+ANSWER: ( 83.0 - 54.0 )=29
+**********************************
+MODEL's_ANSWER: Solution: A step-by-step solution is below:
+
+1. First find the total number of bottles of soda: 54 + 83 = 137.
+2. Then subtract the number of diet soda bottles to find the number of regular soda bottles: 137 - 54 = 83.
+3. The answer is 83.
+##############################################################################################
+QUESTION: Because of the decision Sofia asked the students to suggest specific types of food. If 269 students suggested adding bacon 330 suggested adding mashed potatoes to the menu and 76 suggested adding tomatoesHow many more students suggested mashed potatoes than those that suggested bacon?
+***********************************
+ANSWER: ( 330.0 - 269.0 )=61
+**********************************
+MODEL's_ANSWER: Solution: 330 - 269 = 61 students suggested mashed potatoes than those that suggested bacon.
+
+##############################################################################################
+QUESTION: Brenda's mother made cookies for 14. If each of them had 30 cookiesHow many cookies did she prepare?
+***********************************
+ANSWER: ( 14.0 * 30.0 )=420
+**********************************
+MODEL's_ANSWER: Solution: "If there are 14 people and each person had 30 cookies, then there were 14 * 30 = 420 cookies. The answer is 420."
+##############################################################################################
+QUESTION: Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left.How many more apps did he delete than he added?
+***********************************
+ANSWER: ( 15.0 - 14.0 )=1
+**********************************
+MODEL's_ANSWER: Solution: "Dave had 15 apps + 71 apps = 86 apps. He had 86 apps - 14 apps = 72 apps. So he deleted 72 apps - 71 apps = 1 app more than he added. The answer is 1."
+##############################################################################################
+QUESTION: Kelly has 106 nintendo games.How many will she have left if she gives away 64 games?
+***********************************
+ANSWER: ( 106.0 - 64.0 )=42
+**********************************
+MODEL's_ANSWER: Solution: Kelly had 106 games. She gave away 64 games. So she has 106 - 64 = 42 games left.
+
+##############################################################################################
+QUESTION: Matthew had 15 crackers. If Matthew gave equal numbers of crackers to his 5 friends and still had 10 crackers leftHow many crackers did each friend eat?
+***********************************
+ANSWER: ( ( 15.0 - 10.0 ) / 5.0 )=1
+**********************************
+MODEL's_ANSWER: Solution: Matthew gave 15 - 10 = 5 crackers to each friend.
+
+##############################################################################################
+QUESTION: Last week Fred had 114 dollars and Jason had 22 dollars. They washed cars over the weekend and now Fred has 21 dollars and Jason has 78 dollars.How much money did Jason make over the weekend?
+***********************************
+ANSWER: ( 78.0 - 22.0 )=56
+**********************************
+MODEL's_ANSWER: Solution: "Jason started with 22 dollars and now has 78 dollars so he made 78 - 22 = 56 dollars over the weekend. The answer is 56."
+##############################################################################################
+QUESTION: Frank had 42 pieces of candy. If he put them equally into 2 bagsHow many pieces of candy are in each bag?
+***********************************
+ANSWER: ( 42.0 / 2.0 )=21
+**********************************
+MODEL's_ANSWER: Solution: Frank had 42 pieces of candy. If he put them equally into 2 bags, then each bag has 42 / 2 = 21 pieces of candy. The answer is 21.
+##############################################################################################
+QUESTION: Jack received 6 emails in the morning and 2 emails in the afternoon.How many more emails did Jack receive in the morning than in the afternoon?
+***********************************
+ANSWER: ( 6.0 - 2.0 )=4
+**********************************
+MODEL's_ANSWER: Solution: Jack received 6 emails in the morning and 2 emails in the afternoon. So he received 6 - 2 = 4 more emails in the morning than in the afternoon.
+
+##############################################################################################
+QUESTION: Baker made 43 cakes and 114 pastries. If he sold 154 pastries and 78 cakesHow many more pastries than cakes did baker sell?
+***********************************
+ANSWER: ( 154.0 - 78.0 )=76
+**********************************
+MODEL's_ANSWER: Solution: Baker made 43 cakes and 114 pastries, so he made a total of 43 + 114 = 157 pastries and cakes. Baker sold 154 pastries and 78 cakes, so he sold a total of 154 + 78 = 232 pastries and cakes. Baker sold 232 - 157 = 75 more pastries than cakes.
+
+Step-by-step explanation:
+1. Baker made 43 cakes and 114 pastries, so he made a total of 43 + 114 = 157 pastries and cakes.
+2. Baker sold 154 pastries and 78 cakes, so he sold a total of 154 + 78 = 232 pastries and cakes.
+3. Baker sold 232 - 157 = 75 more pastries than cakes.
+##############################################################################################
+QUESTION: Haley has 20 marbles. In her class 2 boys love to play marbles. If she distributes her marbles equallyHow many will each of the boys receive?
+***********************************
+ANSWER: ( 20.0 / 2.0 )=10
+**********************************
+MODEL's_ANSWER: Solution: There are 20 marbles and 2 boys so each boy will receive 20 / 2 = 10 marbles.
+
+##############################################################################################
+QUESTION: They decided to hold the party in their backyard. They have 4 sets of tables and each set has 3 chairs. If a total of 14 people will attend the partyHow many more chairs will they have to buy?
+***********************************
+ANSWER: ( 14.0 - ( 4.0 * 3.0 ) )=2
+**********************************
+MODEL's_ANSWER: Solution: "They have 4 sets of tables with 3 chairs each, so they have 4 * 3 = 12 chairs. They need 14 chairs for the party, so they need to buy 14 - 12 = 2 more chairs. The answer is 2."
+##############################################################################################
+QUESTION: Last week Fred had 19 dollars and Jason had 16 dollars. They washed cars over the weekend and now Fred has 40 dollars and Jason has 69 dollars.How much money did Fred earn over the weekend?
+***********************************
+ANSWER: ( 40.0 - 19.0 )=21
+**********************************
+MODEL's_ANSWER: Solution: Fred had 19 dollars last week and he now has 40 dollars so he earned 40 - 19 = 21 dollars over the weekend.
+
+##############################################################################################
+QUESTION: Paco had 25 cookies. He ate 5 of them. Then he bought 3 more cookiesHow many more cookies did he eat than those he bought?
+***********************************
+ANSWER: ( 5.0 - 3.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: Paco had 25 cookies. He ate 5 of them. Then he had 25 - 5 = 20 cookies. He bought 3 more cookies so he had 20 + 3 = 23 cookies. He ate 20 - 23 = 3 more cookies than those he bought.
+
+The answer is 3.
+##############################################################################################
+QUESTION: Rachel has 4 apple trees. She picked 7 apples from each of her trees. Now the trees have a total 29 apples still on them.How many apples did Rachel pick in all?
+***********************************
+ANSWER: ( 4.0 * 7.0 )=28
+**********************************
+MODEL's_ANSWER: Solution: Rachel's trees have 29 + 7 * 4 = 55 apples. Rachel picked 7 * 4 = 28 apples.
+
+The answer: 28.
+##############################################################################################
+QUESTION: Jake has 8 fewer peaches and 10 more apples than Steven. Steven has 11 apples and 18 peaches.How many more peaches than apples does Steven have?
+***********************************
+ANSWER: ( 18.0 - 11.0 )=7
+**********************************
+MODEL's_ANSWER: Step-by-step solution:
+
+Steven has 11 apples + 10 apples = 21 apples.
+Steven has 18 peaches - 8 peaches = 10 peaches.
+Steven has 10 peaches - 21 apples = 11 more peaches than apples.
+The answer is 11.
+##############################################################################################
+QUESTION: A grocery store had a total of 30 bottles of which 28 were bottles of regular soda and the rest were bottles of diet soda.How many bottles of diet soda did they have?
+***********************************
+ANSWER: ( 30.0 - 28.0 )=2
+**********************************
+MODEL's_ANSWER: Solution: "The grocery store had 30 bottles of soda in total. 28 of them were regular soda. So they had 30 - 28 = 2 bottles of diet soda. The answer is 2."
+##############################################################################################
+QUESTION: The Ferris wheel in paradise park has 2 small seats and 23 large seats. Each small seat can hold 14 people and large seat can hold 54 people.How many people can ride the Ferris wheel on small seats?
+***********************************
+ANSWER: ( 2.0 * 14.0 )=28
+**********************************
+MODEL's_ANSWER: Solution:
+        1. The Ferris wheel has 2 small seats and 23 large seats, for a total of 2 + 23 = 25 seats.
+        2. Each small seat can hold 14 people, so the Ferris wheel can hold 14 * 2 = 28 people on small seats.
+        3. The answer: 28.
+##############################################################################################
+QUESTION: Debby bought 360 soda bottles and 162 water bottles when they were on sale. If she drank 122 water bottles and 9 soda bottles a dayHow many days would the soda bottles last?
+***********************************
+ANSWER: ( 360.0 / 9.0 )=40
+**********************************
+MODEL's_ANSWER: Solution: 1. 162 water bottles / 122 water bottles per day = 1.3 days.
+2. 360 soda bottles / 9 soda bottles per day = 40 days.
+3. 1.3 days + 40 days = 41.3 days.
+4. The answer: 41.
+##############################################################################################
