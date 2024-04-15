@@ -11,7 +11,8 @@
  <img src="SVAMP_3COMP.png" style="width:1376px;height:774px"/>
  <img src="SVAMP_4COMP.png" style="width:1376px;height:774px"/>
 
- ## Obtained Result in Llama 2:
+ ## Obtained Result in Llama-2-7B-chat-GPTQ:
  <img src="llama_AQuA_cot_std.png" style="width:1376px;height:774px"/>
  <img src="llama_gsm8k_cot_std.png" style="width:1376px;height:774px"/>
  
+## Obtained Result in Llama-2-13B-chat-GPTQ:
