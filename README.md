@@ -16,3 +16,6 @@
  <img src="llama_gsm8k_cot_std.png" style="width:1376px;height:774px"/>
  
 ## Obtained Result in Llama-2-13B-chat-GPTQ:
+###Comparing New vs Old Promptings with Llama2-13B for 3-ShotCot, the numbers given in the graph are
+the total number of correct answers outof 254 from AQuA Dataset
+ <img src="Llama2Results_13Bv7B/graphs/13Bvs7B_Llama2.png" style="width:1376px;height:774px"/>
