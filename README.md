@@ -20,8 +20,9 @@
 ---
 
 <img src="Llama2Results_13Bv7B/graphs/13BNewPrompts.png" style="width:1376px;height:774px"/>
-Comparing New vs Old Promptings with Llama2-13B for 3-ShotCot, the numbers given in the graph are
-the total number of correct answers outof 254 from AQuA Dataset.
+Llama2-13B with New Prompts,the numbers given in the graph are the total number of correct answers
+outof 254 from AQuA Dataset,Difference between 0-ShotStd,0-ShotCot is that whole prompt is suffixed by ”Lets
+think step by step.” for 0-ShotCot.
 
 ---
 
@@ -33,6 +34,5 @@ step.” at the end of the standard prompt.
 ---
 
 <img src="Llama2Results_13Bv7B/graphs/NewVsOldPrompt_3ShotCot.png" style="width:1376px;height:774px"/>
-Llama2-13B with New Prompts,the numbers given in the graph are the total number of correct answers
-outof 254 from AQuA Dataset,Difference between 0-ShotStd,0-ShotCot is that whole prompt is suffixed by ”Lets
-think step by step.” for 0-ShotCot.
+Comparing New vs Old Promptings with Llama2-13B for 3-ShotCot, the numbers given in the graph are
+the total number of correct answers outof 254 from AQuA Dataset.
